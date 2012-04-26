@@ -1,0 +1,14 @@
+# List of source files which contain translatable strings.
+[encoding: UTF-8]
+./po/conf.po
+@REL_SOURCE_ROOT@/tables/cns11643.conf.in
+@REL_SOURCE_ROOT@/tables/compose.conf.in
+@REL_SOURCE_ROOT@/tables/emoji.conf.in
+@REL_SOURCE_ROOT@/tables/ipa-x-sampa.conf.in
+@REL_SOURCE_ROOT@/tables/latex.conf.in
+@REL_SOURCE_ROOT@/tables/rustrad.conf.in
+@REL_SOURCE_ROOT@/tables/thai.conf.in
+@REL_SOURCE_ROOT@/tables/translit.conf.in
+@REL_SOURCE_ROOT@/tables/translit-ua.conf.in
+@REL_SOURCE_ROOT@/tables/viqr.conf.in
+@REL_SOURCE_ROOT@/tables/yawerty.conf.in

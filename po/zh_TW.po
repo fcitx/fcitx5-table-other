@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Alisha <alisha.4m@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-27 05:44+0800\n"
+"PO-Revision-Date: 2012-03-03 16:06+0000\n"
+"Last-Translator: Alisha <alisha.4m@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/fcitx/"
+"language/zh_TW/)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/cns11643.conf.in.h:1
+msgid "CNS11643"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/compose.conf.in.h:1
+msgid "Compose"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/emoji.conf.in.h:1
+msgid "Emoji"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/ipa-x-sampa.conf.in.h:1
+msgid "IPA-X-SAMPA"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/latex.conf.in.h:1
+msgid "LaTex"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/rustrad.conf.in.h:1
+msgid "Russian Traditional"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/thai.conf.in.h:1
+msgid "Thai"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit.conf.in.h:1
+msgid "Translit"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit-ua.conf.in.h:1
+msgid "Ua-Translit"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/viqr.conf.in.h:1
+msgid "Viqr"
+msgstr ""
+
+#: /home/saber/Develop/fcitx-table-other/build/po/tmp/yawerty.conf.in.h:1
+msgid "Yawerty"
+msgstr ""
+
+#~ msgid "Boshiamy"
+#~ msgstr "嘸蝦米"
+
+#~ msgid "Cangjie Big"
+#~ msgstr "倉頡大字集"
+
+#~ msgid "Cangjie3"
+#~ msgstr "倉頡第三代"
+
+#~ msgid "Cangjie5"
+#~ msgstr "倉頡第五代"
+
+#~ msgid "Quick3"
+#~ msgstr "速成第三代"
+
+#~ msgid "Quick5"
+#~ msgstr "速成第五代"
+
+#~ msgid "QuickClassic"
+#~ msgstr "速成古典版"
+
+#~ msgid "Zhengma"
+#~ msgstr "鄭碼"
