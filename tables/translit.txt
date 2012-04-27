@@ -6,6 +6,8 @@
 ###
 Length=3
 KeyCode=ABCDEFGHIJKLMNOPRSTUVWYZabcdefghijklmnopqrstuvwxyzäöü'"#
+Prompt=
+ConstructPhrase=
 [Data]
 A	А
 B	Б

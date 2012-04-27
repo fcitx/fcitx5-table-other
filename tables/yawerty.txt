@@ -1,6 +1,8 @@
 ### This file is derived from Vim's russian-yawerty.vim <http://www.vim.org/>
 Length=1
 KeyCode=ABWGDE&VZIJKLMNOPRSTUFHC+{}$YX|~Qabwgde^vzijklmnoprstufhc=[]#yx\`q
+Prompt=
+ConstructPhrase=
 [Data]
 A	А
 B	Б

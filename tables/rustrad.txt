@@ -1,6 +1,8 @@
 ### This file is based on the traditional Russian typewriter layout
 Length=1
 KeyCode=F<DULT~:PBQRKVYJGHCNEA{WXIO}SM">Zf,dult`;pbqrkvyjghcnea[wxio]sm'.z
+Prompt=
+ConstructPhrase=
 [Data]
 F	А
 <	Б

@@ -1,6 +1,8 @@
 ### redistribute
 ### This table under LGPL-2.1 or later
 KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ:`~!^*()-_=+'",.<>/\?0|
+Prompt=
+ConstructPhrase=
 Length=2
 [Data]
 !! ¡

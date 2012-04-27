@@ -1,5 +1,7 @@
 Length=3
 KeyCode=DAEIOUY'`?~.^(+daeiouy
+Prompt=
+ConstructPhrase=
 [Data]
 A	A
 A'	Á
