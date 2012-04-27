@@ -1,3 +1,6 @@
+### This table under LGPL
+### comments start with ### not single #
+### Author: Shellex Y <5h3ll3x@gmail.com> 
 KeyCode=abcdefghijklmnopqrstuvwxyz
 Length=20
 [Data]
