@@ -1,0 +1,103 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This file is derived from iiimf unitLE's Gujarati inscript layout.
+### Copyright (c) 2003 Sun Microsystems, Inc. All Rights Reserved.
+Length=1
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=|\~`:;"'{[}]<,>.?/
+Prompt=
+ConstructPhrase=
+[Data]
+! ઍ
+1 ૧
+@ ૅ
+2 ૨
+# ૠ
+3 ૩
+$ ૄ
+4 ૪
+5 ૫
+6 ૬
+7 ૭
+8 ૮
+( (
+9 ૯
+) )
+0 ૦
+_ ઃ
+- -
++ ઋ
+= ૃ
+Q ઔ
+q ૌ
+W ઐ
+w ૈ
+E આ
+e ા
+R ઈ
+r ી
+T ઊ
+t ૂ
+Y ભ
+y બ
+U ઙ
+u હ
+I ઘ
+i ગ
+O ધ
+o દ
+P ઝ
+p જ
+{ ઢ
+[ ડ
+} ઞ
+] ઼
+A ઓ
+a ો
+S એ
+s ે
+D અ
+d ્
+F ઇ
+f િ
+G ઉ
+g ુ
+H ફ
+h પ
+J ઽ
+j ર
+K ખ
+k ક
+L થ
+l ત
+: છ
+; ચ
+" ઠ
+' ટ
+| ઑ
+\ ૉ
+~ ~
+` `
+Z ૐ
+z ૱
+X ઁ
+x ં
+C ણ
+c મ
+V "
+v ન
+B '
+b વ
+N ળ
+n લ
+M શ
+m સ
+< ષ
+, ,
+> ।
+. .
+? ?
+/ ય
+% જ્ઞ
+^ ત્ર
+& ક્ષ
+* શ્ર

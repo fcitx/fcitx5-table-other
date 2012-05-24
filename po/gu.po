@@ -1,26 +1,26 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# Weng Xuetian <wengxt@gmail.com>, 2011, 2012.
+# Weng Xuetian <wengxt@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-24 21:23+0800\n"
-"PO-Revision-Date: 2012-05-24 13:15+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
-"Language-Team: Chinese (China) <fcitx-dev@googlegroups.com>\n"
-"Language: zh_CN\n"
+"PO-Revision-Date: 2012-05-24 21:20+0800\n"
+"Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
+"Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
+"Language: gu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Lokalize 1.4\n"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/amharic.conf.in.h:1
 msgid "Amharic"
-msgstr ""
+msgstr "ઇંસ્ક્રિપ્ટ"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/arabic.conf.in.h:1
 msgid "Arabic"
@@ -28,19 +28,19 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/cns11643.conf.in.h:1
 msgid "CNS11643"
-msgstr "交换码"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/compose.conf.in.h:1
 msgid "Compose"
-msgstr "Compose"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/emoji.conf.in.h:1
 msgid "Emoji"
-msgstr "颜文字"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/ipa-x-sampa.conf.in.h:1
 msgid "IPA-X-SAMPA"
-msgstr "IPA-X-SAMPA"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/kannada-inscript.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/telugu-inscript.conf.in.h:1
@@ -63,14 +63,14 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/latex.conf.in.h:1
 msgid "LaTex"
-msgstr "LaTex"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/tamil-phonetic.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/punjabi-phonetic.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/gujarati-phonetic.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/hindi-phonetic.conf.in.h:1
 msgid "Phonetic"
-msgstr ""
+msgstr "ઉચ્ચારાત્મક"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/bengali-probhat.conf.in.h:1
 msgid "Probhat (phonetic)"
@@ -86,7 +86,7 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/rustrad.conf.in.h:1
 msgid "Russian Traditional"
-msgstr "俄文传统"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/malayalam-phonetic.conf.in.h:1
 msgid "Swanalekha"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/thai.conf.in.h:1
 msgid "Thai"
-msgstr "泰文"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/nepali-trad.conf.in.h:1
 msgid "Traditional"
@@ -103,16 +103,16 @@ msgstr ""
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/ukrainian-translit.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit.conf.in.h:1
 msgid "Translit"
-msgstr "Translit"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit-ua.conf.in.h:1
 msgid "Ua-Translit"
-msgstr "Ua-Translit"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/viqr.conf.in.h:1
 msgid "Viqr"
-msgstr "Viqr"
+msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/yawerty.conf.in.h:1
 msgid "Yawerty"
-msgstr "Yawerty"
+msgstr ""

@@ -1,0 +1,101 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### Copyright (c) 2005 Red Hat, Inc. All rights reserved.
+Length=1
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=|\~`:;"'{[}]<,>.?/
+Prompt=
+ConstructPhrase=
+[Data]
+~ `
+` `
+! !
+1 1
+@@
+2 2
+# #
+3 3
+$ $
+4 4
+% %
+5 5
+6 6
+7 7
+8 8
+( (
+9 9
+) )
+0 0
+_ _
+- -
++ +
+= =
+Q ਔ
+q ੌ
+W ਐ
+w ੈ
+E ਆ
+e ਾ
+R ਈ
+r ੀ
+T ਊ
+t  ੂ
+Y ੜ
+y ਰ
+U ਧ
+u ਦ
+I ਘ
+i ਗ
+O ਟ
+o ਤ
+P ਫ
+p ਪ
+{ ਢ
+[ ਡ
+} ਞ
+] ਙ
+A ਓ
+a ੋ
+S ਏ
+s ੇ
+D ਅ
+d ੍
+F ਇ
+f ਿ
+G ਉ
+g ੁ
+H ਠ
+h ਹ
+J ਝ
+j ਜ
+K ਖ
+k ਕ
+L ਥ
+l ਲ
+: :
+; ਸ
+" "
+' '
+| ।
+\ \
+Z ਼
+z ੱ
+X ੰ
+x ਂ
+C ਛ
+c ਚ
+V ਯ
+v ਵ
+B ਭ
+b ਬ
+N ਣ
+n ਨ
+M ਠ
+m ਮ
+< <
+, ,
+> >
+. .
+? ?
+/ /
+^ ੍ਰ
+* *

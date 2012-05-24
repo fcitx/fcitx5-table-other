@@ -1,0 +1,102 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This file is derived from iiimf unitLE's Kannada KGP layout.
+### Copyright (c) 2003 Sun Microsystems, Inc. All Rights Reserved.
+Length=1
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=|\~`:;"'{[}]<,>./
+Prompt=
+ConstructPhrase=
+[Data]
+! !
+1 ೧
+@ @
+2 ೨
+# #
+3 ೩
+$ $
+4 ೪
+% %
+5 ೫
+^ ^
+6 ೬
+& &
+7 ೭
+* *
+8 ೮
+( (
+9 ೯
+) )
+0 ೦
+_ _
+- -
++ +
+= =
+Q ಠ
+q ಟ
+W ಢ
+w ಡ
+E ಏ
+e ಎ
+R ಋ
+r ರ
+T ಥ
+t ತ
+Y ಐ
+y ಯ
+U ಊ
+u ಉ
+I ಈ
+i ಇ
+O ಓ
+o ಒ
+P ಫ
+p ಪ
+{ {
+[ [
+} }
+] ]
+A ಆ
+a ಅ
+S ಶ
+s ಷ
+D ಧ
+d ದ
+F ೯
+f ್
+G ಘ
+g ಗ
+H
+h ಹ
+J ಝ
+j ಜ
+K ಖ
+k ಕ
+L ಳ
+l ಲ
+: :
+; ;
+" "
+' '
+| |
+\ \
+~ ~
+` `
+Z
+z ಞ
+X
+x ం
+C ಛ
+c ಚ
+V ಔ
+v ವ
+B ಭ
+b ಬ
+N ಣ
+n ನ
+M ಂ
+m ಮ
+< <
+, ,
+> >
+. .
+/ /

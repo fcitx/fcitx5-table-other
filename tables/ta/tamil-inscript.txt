@@ -1,0 +1,89 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This file is derived from iiimf unitLE's Tamil inscript layout.
+### Copyright (c) 2003 Sun Microsystems, Inc. All Rights Reserved.
+Length=1
+KeyCode=abcdefghjklmnpqrstuvwxzABCDEFGHJMNQRSTUVWXZ1234567890!@$%^&*()_-+=|\~`:;"'<,>./}
+Prompt=
+ConstructPhrase=
+[Data]
+! !
+1 1
+@ @
+2 2
+3 3
+$ $
+4 4
+% %
+5 5
+^ ^
+6 6
+& க்ஷ
+7 7
+8 8
+( (
+9 9
+) )
+0 0
+_ ஃ
+- -
++ +
+= =
+Q ஔ
+q ௌ
+W ஐ
+w ை
+E ஆ
+e ா
+R ஈ
+r ீ
+T ஊ
+t ூ
+U ங
+u ஹ
+p ஜ
+} ஞ
+A ஓ
+a ோ
+S ஏ
+s ே
+D அ
+d ்
+F இ
+f ி
+G உ
+g ு
+H H
+h ப
+J ற
+j ர
+k க
+l த
+: :
+; ச
+" "
+' ட
+| |
+\ \
+~ ஒ
+` ொ
+Z எ
+z ெ
+X X
+x x
+C ண
+c ம
+V ன
+v ந
+B ழ
+b வ
+N ள
+n ல
+M M
+m ஸ
+< ஷ
+, ,
+> >
+. .
+/ ய
+* ஷ்ர

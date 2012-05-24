@@ -1,0 +1,103 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This file is derived from iiimf unitLE's Telugu inscript layout.
+### Copyright (c) 2003 Sun Microsystems, Inc. All Rights Reserved.
+Length=1
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=|\~`:;"'{[}]<,>.?/
+Prompt=
+ConstructPhrase=
+[Data]
+! !
+1 ౧
+@ @
+2 ౨
+# #
+3 ౩
+$ $
+4 ౪
+5 ౫
+6 ౬
+7 ౭
+8 ౮
+( (
+9 ౯
+) )
+0 ౦
+_ _
+- -
++ ఋ
+= ృ
+Q ఔ
+q ౌ
+W ఐ
+w ై
+E ఆ
+e ా
+R ఈ
+r ీ
+T ఊ
+t ూ
+Y భ
+y బ
+U ఙ
+u హ
+I ఘ
+i గ
+O ధ
+o ద
+P ఝ
+p జ
+{ ఢ
+[ డ
+} ఞ
+] ]
+A ఓ
+a ో
+S ఏ
+s ే
+D అ
+d ్
+F ఇ
+f ి
+G ఉ
+g ు
+H ఫ
+h ప
+J ఱ
+j ర
+K ఖ
+k క
+L థ
+l త
+: ఛ
+; చ
+" ఠ
+' ట
+| |
+\ \
+~ ఒ
+` ొ
+Z ఎ
+z ె
+X X
+x ం
+C ణ
+c మ
+V V
+v న
+B B
+b వ
+N ళ
+n ల
+M శ
+m స
+< ష
+, ,
+> >
+. .
+? ?
+/ య
+% జ్ఞ
+^ త్ర
+& క్ష
+* శ్ర

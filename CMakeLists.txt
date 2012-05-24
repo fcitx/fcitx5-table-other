@@ -6,6 +6,8 @@ find_package(Fcitx 4.2.3 REQUIRED)
 find_package(Gettext REQUIRED)
 find_program(TXT2MB txt2mb REQUIRED)
 
+option(ENABLE_DEPRECATED Off "Enable deprecated table")
+
 # uninstall target
 configure_file(
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/cmake_uninstall.cmake.in"

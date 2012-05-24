@@ -1,0 +1,103 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This file is derived from iiimf unitLE's Bengali inscript layout.
+### Copyright (c) 2003 Sun Microsystems, Inc. All Rights Reserved.
+Length=1
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=|\~`:;"'{[}]<,>.?/
+Prompt=
+ConstructPhrase=
+[Data]
+! !
+" ঠ
+' ট
+( (
+) )
++ ঋ
+, ,
+- -
+. ।
+/ য
+0 ০
+1 ১
+2 ২
+3 ৩
+4 ৪
+5 ৫
+6 ৬
+7 ৭
+8 ৮
+9 ৯
+: ছ
+; চ
+< ষ
+= ৃ
+> >
+? য়
+@ @
+# ্র
+$ র্
+% জ্ঞ
+& ক্ষ
+* শ্র
+^ ত্র
+A ও
+B B
+C ণ
+D অ
+E আ
+F ই
+G উ
+H ফ
+I ঘ
+J J
+K খ
+L থ
+M শ
+N N
+O ধ
+P ঝ
+Q ঔ
+R ঈ
+S এ
+T ঊ
+U ঙ
+V V
+W ঐ
+X ঁ
+Y ভ
+Z Z
+[ ড
+\ \
+] ়
+_ ঃ
+` `
+a ো
+b b
+c ম
+d ্
+e া
+f ি
+g ু
+h প
+i গ
+j র
+k ক
+l ত
+m স
+n ল
+o দ
+p জ
+q ৌ
+r ী
+s ে
+t ূ
+u হ
+v ন
+w ৈ
+x ং
+y ব
+z z
+{ ঢ
+| |
+} ঞ
+~ ~

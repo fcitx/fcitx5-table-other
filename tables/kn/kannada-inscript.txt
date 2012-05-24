@@ -1,0 +1,103 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This file is derived from iiimf unitLE's Kannada inscript layout.
+### Copyright (c) 2003 Sun Microsystems, Inc. All Rights Reserved.
+Length=1
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=|\~`:;"'{[}]<,>./
+Prompt=
+ConstructPhrase=
+[Data]
+! !
+1 ೧
+@ @
+2 ೨
+# #
+3 ೩
+$ $
+4 ೪
+5 ೫
+6 ೬
+7 ೭
+8 ೮
+( (
+9 ೯
+) )
+0 ೦
+_ ಃ
+- -
++ ಋ
+= ೃ
+Q ಔ
+q ೌ
+W ಐ
+w ೈ
+E ಆ
+e ಾ
+R ಈ
+r ೀ
+T ಊ
+t ೂ
+Y ಭ
+y ಬ
+U ಙ
+u ಹ
+I ಘ
+i ಗ
+O ಧ
+o ದ
+P ಝ
+p ಜ
+{ ಢ
+[ ಡ
+} ಞ
+] ]
+A ಓ
+a ೋ
+S ಏ
+s ೇ
+D ಅ
+d ್
+F ಇ
+f ಿ
+G ಉ
+g ು
+H ಫ
+h ಪ
+J ಱ
+j ರ
+K ಖ
+k ಕ
+L ಥ
+l ತ
+: ಛ
+; ಚ
+" ಠ
+' ಟ
+| |
+\ \
+~ ಒ
+`  ೊ
+Z ಎ
+z ೆ
+X
+x ಂ
+C ಣ
+c ಮ
+V
+v ನ
+B
+b ವ
+N ಳ
+n ಲ
+M ಶ
+m ಸ
+< ಷ
+, ,
+> ಾ
+. .
+/ ಯ
+% ಜ್ಞ
+^ ತ್ರ
+& ಕ್ಷ
+* ಶ್ರ
+
