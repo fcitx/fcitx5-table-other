@@ -10,12 +10,12 @@ kn/kannada-kgp # can be deprecated by m17n
 ml/malayalam-inscript # can be deprecated by m17n
 ne/nepali-rom # can be deprecated by m17n
 ne/nepali-trad # can be deprecated by m17n
-pa/punjabi-inscript
-pa/punjabi-jhelum
-pa/punjabi-phonetic
-ta/tamil-inscript
-ta/tamil-phonetic
-te/telugu-inscript
+pa/punjabi-inscript # can be deprecated by m17n
+pa/punjabi-jhelum # can be deprecated by m17n
+pa/punjabi-phonetic # can be deprecated by m17n
+ta/tamil-inscript # can be deprecated by m17n
+ta/tamil-phonetic # can be deprecated by m17n
+te/telugu-inscript # can be deprecated by m17n
 )
 
 set(TABLE_NAMES

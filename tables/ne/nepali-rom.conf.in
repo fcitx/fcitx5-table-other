@@ -1,7 +1,7 @@
 [CodeTable]
 UniqueName=nepali-rom
 _Name=Romanized
-IconName=nepali-rom
+IconName=nepali
 File=nepali-rom.mb
 AdjustOrder=AdjustNo
 Priority=100

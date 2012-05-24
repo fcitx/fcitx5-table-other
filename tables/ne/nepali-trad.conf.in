@@ -1,7 +1,7 @@
 [CodeTable]
 UniqueName=nepali-trad
 _Name=Traditional
-IconName=nepali-trad
+IconName=nepali
 File=nepali-trad.mb
 AdjustOrder=AdjustNo
 Priority=100
