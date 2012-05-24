@@ -1,7 +1,6 @@
-Requirements:
+fcitx-table-other provides some other tables for Fcitx, fork from ibus-table-others, scim-tables.
 
-    You need to install fcitx first.
+Most of the table in this package is non-Chinese table. They are listed under /tables by language.
 
-Introduction:
-
-    fcitx-table-other provides some other tables for Fcitx, fork from ibus-table-others
+The package is released under GPLv3+.
+    
