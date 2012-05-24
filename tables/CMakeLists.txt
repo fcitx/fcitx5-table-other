@@ -28,8 +28,8 @@ other/compose
 other/emoji
 other/ipa-x-sampa
 other/latex
+uk/translit-ua
 ru/rustrad
-ru/translit-ua
 ru/translit
 ru/yawerty
 th/thai

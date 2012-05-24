@@ -24,3 +24,7 @@ AlternativeNextPage=PGDN
 FirstCandidateAsPreedit=True
 LangCode=ar
 CommitKey=SHIFT_SPACE
+SendRawPreedit=True
+NoMatchDontCommit=True
+CommitKeyCommitWhenNoMatch=True
+CommitAndPassByInvalidKey=True

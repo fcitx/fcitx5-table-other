@@ -23,3 +23,7 @@ AlternativePrevPage=PGUP
 AlternativeNextPage=PGDN
 FirstCandidateAsPreedit=True
 LangCode=ml
+SendRawPreedit=True
+NoMatchDontCommit=True
+CommitKeyCommitWhenNoMatch=True
+CommitAndPassByInvalidKey=True
