@@ -1,4 +1,3 @@
-### Derived from th-kesmanee.mim table in m17n-db.
 Length=1
 KeyCode=!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
 Prompt=

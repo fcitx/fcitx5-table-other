@@ -1,4 +1,3 @@
-### This file is derived from GTK2 Input Method Cyrillic Transliterated
 Length=2
 KeyCode=ABWGDE&VZIJKLMNOPRSTUFHCYX"'abwgdevzijklmnoprstufhcyx"'
 Prompt=

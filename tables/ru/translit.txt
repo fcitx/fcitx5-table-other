@@ -1,9 +1,3 @@
-### Table         Translit Table
-###
-### Author        Daniil Ivanov <daniil.ivanov@gmail.com>
-###               Caius 'kaio' Chance < k at kaio.me >
-###
-###
 Length=3
 KeyCode=ABCDEFGHIJKLMNOPRSTUVWYZabcdefghijklmnopqrstuvwxyzäöü'"#
 Prompt=

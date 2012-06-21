@@ -1,12 +1,3 @@
-###
-### For information about X-SAMPA see also
-###     http://www.phon.ucl.ac.uk/home/sampa/home.htm
-###     http://www.phon.ucl.ac.uk/home/sampa/x-sampa.htm
-###     http://www.phon.ucl.ac.uk/home/sampa/ipasam-x.pdf
-###
-### This table was mostly created by converting ipa-x-sampa.scm
-### from the uim project. See http://uim.freedesktop.org/
-###
 KeyCode=+!\%&'-./0123456789:<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~"
 Length=4
 Prompt=
