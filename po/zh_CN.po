@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Christopher Meng <cickumqt@gmail.com>, 2012.
+#   <wengxt@gmail.com>, 2012.
 # Weng Xuetian <wengxt@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-24 21:23+0800\n"
-"PO-Revision-Date: 2012-05-24 13:15+0000\n"
+"PO-Revision-Date: 2012-07-13 13:46+0000\n"
 "Last-Translator: csslayer <wengxt@gmail.com>\n"
 "Language-Team: Chinese (China) <fcitx-dev@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -20,11 +22,11 @@ msgstr ""
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/amharic.conf.in.h:1
 msgid "Amharic"
-msgstr ""
+msgstr "阿姆哈拉语"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/arabic.conf.in.h:1
 msgid "Arabic"
-msgstr ""
+msgstr "阿拉伯语"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/cns11643.conf.in.h:1
 msgid "CNS11643"
@@ -51,15 +53,15 @@ msgstr "IPA-X-SAMPA"
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/gujarati-inscript.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/hindi-inscript.conf.in.h:1
 msgid "Inscript"
-msgstr ""
+msgstr "Inscript (印度文字)"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/punjabi-jhelum.conf.in.h:1
 msgid "Jhelum"
-msgstr ""
+msgstr "Jhelum"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/kannada-kgp.conf.in.h:1
 msgid "KGP"
-msgstr ""
+msgstr "KGP"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/latex.conf.in.h:1
 msgid "LaTex"
@@ -70,19 +72,19 @@ msgstr "LaTex"
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/gujarati-phonetic.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/hindi-phonetic.conf.in.h:1
 msgid "Phonetic"
-msgstr ""
+msgstr "音标"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/bengali-probhat.conf.in.h:1
 msgid "Probhat (phonetic)"
-msgstr ""
+msgstr "Probhat (音标)"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/tamil-remington.conf.in.h:1
 msgid "Remington"
-msgstr ""
+msgstr "Remington"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/nepali-rom.conf.in.h:1
 msgid "Romanized"
-msgstr ""
+msgstr "罗马化"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/rustrad.conf.in.h:1
 msgid "Russian Traditional"
@@ -90,7 +92,7 @@ msgstr "俄文传统"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/malayalam-phonetic.conf.in.h:1
 msgid "Swanalekha"
-msgstr ""
+msgstr "Swanalekha"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/thai.conf.in.h:1
 msgid "Thai"
@@ -98,7 +100,7 @@ msgstr "泰文"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/nepali-trad.conf.in.h:1
 msgid "Traditional"
-msgstr ""
+msgstr "繁体"
 
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/ukrainian-translit.conf.in.h:1
 #: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit.conf.in.h:1
