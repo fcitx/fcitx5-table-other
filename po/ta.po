@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-24 21:23+0800\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2013-01-06 03:11-0500\n"
 "PO-Revision-Date: 2012-05-24 21:26+0800\n"
 "Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
 "Language-Team: Chinese Simplified <kde-i18n-doc@kde.org>\n"
@@ -19,101 +19,94 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: Lokalize 1.4\n"
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/amharic.conf.in.h:1
+#: tables/am/amharic.conf.in:3
 msgid "Amharic"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/arabic.conf.in.h:1
+#: tables/ar/arabic.conf.in:3
 msgid "Arabic"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/cns11643.conf.in.h:1
+#: tables/other/cns11643.conf.in:3
 msgid "CNS11643"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/compose.conf.in.h:1
+#: tables/other/compose.conf.in:3
 msgid "Compose"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/emoji.conf.in.h:1
+#: tables/other/emoji.conf.in:3
 msgid "Emoji"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/ipa-x-sampa.conf.in.h:1
+#: tables/other/ipa-x-sampa.conf.in:3
 msgid "IPA-X-SAMPA"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/kannada-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/telugu-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/malayalam-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/bengali-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/tamil-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/punjabi-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/gujarati-inscript.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/hindi-inscript.conf.in.h:1
+#: tables/bn/bengali-inscript.conf.in:3 tables/gu/gujarati-inscript.conf.in:3
+#: tables/hi/hindi-inscript.conf.in:3 tables/kn/kannada-inscript.conf.in:3
+#: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
+#: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
 msgid "Inscript"
 msgstr "இன்ஸ்கிரிப்ட்"
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/punjabi-jhelum.conf.in.h:1
+#: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/kannada-kgp.conf.in.h:1
+#: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/latex.conf.in.h:1
+#: tables/other/latex.conf.in:3
 msgid "LaTex"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/tamil-phonetic.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/punjabi-phonetic.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/gujarati-phonetic.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/hindi-phonetic.conf.in.h:1
+#: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
+#: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic"
 msgstr "ஷப்தலிபி"
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/bengali-probhat.conf.in.h:1
+#: tables/bn/bengali-probhat.conf.in:3
 msgid "Probhat (phonetic)"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/tamil-remington.conf.in.h:1
+#: tables/ta/tamil-remington.conf.in:3
 msgid "Remington"
 msgstr "ரெமிங்டன்"
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/nepali-rom.conf.in.h:1
+#: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/rustrad.conf.in.h:1
+#: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/malayalam-phonetic.conf.in.h:1
+#: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/thai.conf.in.h:1
+#: tables/th/thai.conf.in:3
 msgid "Thai"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/nepali-trad.conf.in.h:1
+#: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/ukrainian-translit.conf.in.h:1
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit.conf.in.h:1
+#: tables/ru/translit.conf.in:3
 msgid "Translit"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/translit-ua.conf.in.h:1
+#: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/viqr.conf.in.h:1
+#: tables/vi/viqr.conf.in:3
 msgid "Viqr"
 msgstr ""
 
-#: /home/saber/Develop/fcitx-table-other/build/po/tmp/yawerty.conf.in.h:1
+#: tables/ru/yawerty.conf.in:3
 msgid "Yawerty"
 msgstr ""
