@@ -1,23 +1,25 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
 # Alisha <alisha.4m@gmail.com>, 2012.
+#   <hiunnhue108@ymail.com>, 2012.
+# Weng Xuetian <wengxt@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-01-06 03:11-0500\n"
-"PO-Revision-Date: 2012-05-24 13:15+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/fcitx/"
+"POT-Creation-Date: 2013-01-18 15:01-0500\n"
+"PO-Revision-Date: 2013-01-18 15:03-0500\n"
+"Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
+"Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "language/zh_TW/)\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic"
@@ -25,7 +27,7 @@ msgstr ""
 
 #: tables/ar/arabic.conf.in:3
 msgid "Arabic"
-msgstr ""
+msgstr "阿拉伯文"
 
 #: tables/other/cns11643.conf.in:3
 msgid "CNS11643"
@@ -56,7 +58,7 @@ msgstr ""
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP"
-msgstr ""
+msgstr "KGP"
 
 #: tables/other/latex.conf.in:3
 msgid "LaTex"
@@ -77,7 +79,7 @@ msgstr ""
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized"
-msgstr ""
+msgstr "羅馬化"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
@@ -93,7 +95,7 @@ msgstr "泰文"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional"
-msgstr ""
+msgstr "傳統"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit"
@@ -101,12 +103,13 @@ msgstr ""
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit"
-msgstr ""
+msgstr "Ua-Translit"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr"
-msgstr ""
+msgstr "Viqr"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty"
-msgstr ""
+msgstr "Yawerty"
+
