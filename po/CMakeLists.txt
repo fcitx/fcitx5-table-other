@@ -1,4 +1,4 @@
-set(PO_LANGS am ar bn gu hi kn ml ne pa ru ta te th uk vi zh_TW zh_CN)
+set(PO_LANGS am ar bn gu hi kn ml ne pa ru ta te th uk vi zh_TW zh_CN ja)
 foreach(lang ${PO_LANGS})
   fcitx_translate_add_po_file("${lang}" "${lang}.po")
 endforeach()

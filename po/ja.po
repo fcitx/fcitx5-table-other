@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# しろう <>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2013-01-18 15:01-0500\n"
+"PO-Revision-Date: 2013-04-14 13:01+0000\n"
+"Last-Translator: しろう <>\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/fcitx/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: tables/am/amharic.conf.in:3
+msgid "Amharic"
+msgstr "アムハラ語"
+
+#: tables/ar/arabic.conf.in:3
+msgid "Arabic"
+msgstr "アラビア語"
+
+#: tables/bn/bengali-inscript.conf.in:3 tables/gu/gujarati-inscript.conf.in:3
+#: tables/hi/hindi-inscript.conf.in:3 tables/kn/kannada-inscript.conf.in:3
+#: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
+#: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
+msgid "Inscript"
+msgstr "インド文字"
+
+#: tables/bn/bengali-probhat.conf.in:3
+msgid "Probhat (phonetic)"
+msgstr "Probhat (表音)"
+
+#: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
+#: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
+msgid "Phonetic"
+msgstr "表音"
+
+#: tables/kn/kannada-kgp.conf.in:3
+msgid "KGP"
+msgstr "KGP"
+
+#: tables/ml/malayalam-phonetic.conf.in:3
+msgid "Swanalekha"
+msgstr "Swanalekha"
+
+#: tables/ne/nepali-rom.conf.in:3
+msgid "Romanized"
+msgstr "ローマ字"
+
+#: tables/ne/nepali-trad.conf.in:3
+msgid "Traditional"
+msgstr "中国語繁体字"
+
+#: tables/other/cns11643.conf.in:3
+msgid "CNS11643"
+msgstr "CNS11643"
+
+#: tables/other/compose.conf.in:3
+msgid "Compose"
+msgstr "Compose"
+
+#: tables/other/emoji.conf.in:3
+msgid "Emoji"
+msgstr "絵文字"
+
+#: tables/other/ipa-x-sampa.conf.in:3
+msgid "IPA-X-SAMPA"
+msgstr "IPA-X-SAMPA"
+
+#: tables/other/latex.conf.in:3
+msgid "LaTex"
+msgstr "LaTex"
+
+#: tables/pa/punjabi-jhelum.conf.in:3
+msgid "Jhelum"
+msgstr "Jhelum"
+
+#: tables/ru/rustrad.conf.in:3
+msgid "Russian Traditional"
+msgstr "伝統的ロシア語"
+
+#: tables/ru/translit.conf.in:3
+msgid "Translit"
+msgstr "Translit"
+
+#: tables/ru/yawerty.conf.in:3
+msgid "Yawerty"
+msgstr "Yawerty"
+
+#: tables/ta/tamil-remington.conf.in:3
+msgid "Remington"
+msgstr "Remington"
+
+#: tables/th/thai.conf.in:3
+msgid "Thai"
+msgstr "タイ語"
+
+#: tables/uk/translit-ua.conf.in:3
+msgid "Ua-Translit"
+msgstr "Ua-Translit"
+
+#: tables/vi/viqr.conf.in:3
+msgid "Viqr"
+msgstr "Viqr"
