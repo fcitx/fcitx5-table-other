@@ -4,15 +4,16 @@
 #
 # Translators:
 # Alisha <alisha.4m@gmail.com>, 2012
-# Hiunn_Hue <hiunnhue108@ymail.com>, 2012
-# Xuetian Weng <wengxt@gmail.com>, 2013
+# BrLi <rainman59118@gmail.com>, 2014
+# Hiunn-hué <hiunnhue108@ymail.com>, 2012
+# csslayer <wengxt@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-04-25 00:02-0400\n"
-"PO-Revision-Date: 2013-01-19 13:08+0000\n"
-"Last-Translator: Alisha <alisha.4m@gmail.com>\n"
+"POT-Creation-Date: 2014-06-06 08:02+0200\n"
+"PO-Revision-Date: 2014-06-06 05:05+0000\n"
+"Last-Translator: BrLi <rainman59118@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/"
 "language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -35,7 +36,7 @@ msgstr "中文標準交換碼"
 
 #: tables/other/compose.conf.in:3
 msgid "Compose"
-msgstr ""
+msgstr "編組"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji"
@@ -54,7 +55,7 @@ msgstr "Inscript（印度文字）"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum"
-msgstr ""
+msgstr "傑赫勒姆"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP"
@@ -75,7 +76,7 @@ msgstr "Probhat（音標）"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington"
-msgstr ""
+msgstr "雷明登"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized"
@@ -87,7 +88,7 @@ msgstr "傳統俄文"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha"
-msgstr ""
+msgstr "Swanalekha"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai"
@@ -99,7 +100,7 @@ msgstr "傳統"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit"
-msgstr ""
+msgstr "Translit"
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit"
