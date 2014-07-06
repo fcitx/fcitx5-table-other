@@ -1,27 +1,6 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-#
-# Translators:
-# Xuetian Weng <wengxt@gmail.com>, 2012
-msgid ""
-msgstr ""
-"Project-Id-Version: fcitx\n"
-"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-04-25 00:02-0400\n"
-"PO-Revision-Date: 2012-05-24 13:28+0000\n"
-"Last-Translator: Xuetian Weng <wengxt@gmail.com>\n"
-"Language-Team: Bengali (http://www.transifex.com/projects/p/fcitx/language/"
-"bn/)\n"
-"Language: bn\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
 #: tables/am/amharic.conf.in:3
 msgid "Amharic"
-msgstr "ইনস্ক্রিপ্ট"
+msgstr ""
 
 #: tables/ar/arabic.conf.in:3
 msgid "Arabic"
@@ -69,9 +48,9 @@ msgstr ""
 
 #: tables/bn/bengali-probhat.conf.in:3
 msgid "Probhat (phonetic)"
-msgstr "প্রভাত"
+msgstr ""
 
-#: tables/ta/tamil-remington.conf.in:3
+#: tables/other/latex.conf.in:3 tables/ta/tamil-remington.conf.in:3
 msgid "Remington"
 msgstr ""
 
@@ -91,7 +70,7 @@ msgstr ""
 msgid "Thai"
 msgstr ""
 
-#: tables/ne/nepali-trad.conf.in:3
+#: tables/ne/nepali-trad.conf.in:3 tables/other/cns11643.conf.in:3
 msgid "Traditional"
 msgstr ""
 
