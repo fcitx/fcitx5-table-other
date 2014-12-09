@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# mar well <marwell.1980@freenet.de>, 2013
+# mar well <m.wellendorf@gmx.de>, 2013
+# mar well <m.wellendorf@gmx.de>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-06-03 14:03-0400\n"
-"PO-Revision-Date: 2013-05-22 06:23+0000\n"
-"Last-Translator: mar well <marwell.1980@freenet.de>\n"
+"POT-Creation-Date: 2014-12-09 12:02+0100\n"
+"PO-Revision-Date: 2014-12-09 10:08+0000\n"
+"Last-Translator: mar well <m.wellendorf@gmx.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/fcitx/language/"
 "de/)\n"
 "Language: de\n"
@@ -81,7 +82,7 @@ msgstr "Romanized"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
-msgstr ""
+msgstr "Traditionelles Russisch"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha"
