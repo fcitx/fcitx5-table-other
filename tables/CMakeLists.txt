@@ -44,21 +44,25 @@ if(ENABLE_DEPRECATED)
   set(TABLE_NAMES ${TABLE_NAMES} ${DEPRECATED_TABLE_NAMES})
 endif()
 
-set(MB_FILE)
-set(CONF_FILE)
+set(MB_FILES)
+set(CONF_FILES)
 
 foreach(table ${TABLE_NAMES})
+  get_filename_component(table_name "${table}" NAME)
+  set(mb_file "${CMAKE_CURRENT_BINARY_DIR}/${table_name}.mb")
+  set(conf_file "${CMAKE_CURRENT_BINARY_DIR}/${table_name}.conf")
+
   fcitx_translate_add_apply_source("${table}.conf.in"
-    "${CMAKE_CURRENT_BINARY_DIR}/${table}.conf")
-  add_custom_command(OUTPUT "${CMAKE_CURRENT_BINARY_DIR}/${table}.mb"
+    "${conf_file}")
+  add_custom_command(OUTPUT "${mb_file}"
     DEPENDS "${table}.txt" "${TXT2MB}"
     COMMAND "${TXT2MB}" ARGS "${CMAKE_CURRENT_SOURCE_DIR}/${table}.txt"
-    "${CMAKE_CURRENT_BINARY_DIR}/${table}.mb")
-  set(MB_FILE ${MB_FILE} "${CMAKE_CURRENT_BINARY_DIR}/${table}.mb")
-  set(CONF_FILE ${CONF_FILE} "${CMAKE_CURRENT_BINARY_DIR}/${table}.conf")
+    "${CMAKE_CURRENT_BINARY_DIR}/${table_name}.mb")
+  set(MB_FILES ${MB_FILES} "${mb_file}")
+  set(CONF_FILES ${CONF_FILES} "${conf_file}")
 endforeach()
 
-add_custom_target(table_data ALL DEPENDS ${MB_FILE})
+add_custom_target(table_data ALL DEPENDS ${MB_FILES})
 
-install(FILES ${CONF_FILE} DESTINATION "${FCITX4_PREFIX}/share/fcitx/table")
-install(FILES ${MB_FILE} DESTINATION "${FCITX4_PREFIX}/share/fcitx/table")
+install(FILES ${CONF_FILES} DESTINATION "${FCITX4_PREFIX}/share/fcitx/table")
+install(FILES ${MB_FILES} DESTINATION "${FCITX4_PREFIX}/share/fcitx/table")
