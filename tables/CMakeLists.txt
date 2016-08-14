@@ -54,8 +54,11 @@ foreach(table ${TABLE_NAMES})
 
   fcitx_translate_add_apply_source("${table}.conf.in"
     "${conf_file}")
+  get_filename_component(out_dir
+    "${CMAKE_CURRENT_BINARY_DIR}/${table}.mb" PATH)
   add_custom_command(OUTPUT "${mb_file}"
     DEPENDS "${table}.txt" "${TXT2MB}"
+    COMMAND "${CMAKE_COMMAND}" -E make_directory "${out_dir}"
     COMMAND "${TXT2MB}" ARGS "${CMAKE_CURRENT_SOURCE_DIR}/${table}.txt"
     "${CMAKE_CURRENT_BINARY_DIR}/${table_name}.mb")
   set(MB_FILES ${MB_FILES} "${mb_file}")
