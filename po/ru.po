@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2015-08-03 18:02+0200\n"
-"PO-Revision-Date: 2013-04-29 10:04+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
+"POT-Creation-Date: 2016-12-01 08:30-0800\n"
+"PO-Revision-Date: 2016-11-30 21:22+0000\n"
+"Last-Translator: TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>\n"
 "Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -21,92 +22,92 @@ msgstr ""
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic"
-msgstr ""
+msgstr "Амхарский"
 
 #: tables/ar/arabic.conf.in:3
 msgid "Arabic"
-msgstr ""
+msgstr "Арабский"
 
 #: tables/other/cns11643.conf.in:3
 msgid "CNS11643"
-msgstr ""
+msgstr "CNS11643"
 
 #: tables/other/compose.conf.in:3
 msgid "Compose"
-msgstr ""
+msgstr "Смешанный"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji"
-msgstr ""
+msgstr "Эмодзи"
 
 #: tables/other/ipa-x-sampa.conf.in:3
 msgid "IPA-X-SAMPA"
-msgstr ""
+msgstr "IPA-X-SAMPA"
 
 #: tables/bn/bengali-inscript.conf.in:3 tables/gu/gujarati-inscript.conf.in:3
 #: tables/hi/hindi-inscript.conf.in:3 tables/kn/kannada-inscript.conf.in:3
 #: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
 #: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
 msgid "Inscript"
-msgstr ""
+msgstr "Инскрипт"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum"
-msgstr ""
+msgstr "Jhelum"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP"
-msgstr ""
+msgstr "KGP"
 
 #: tables/other/latex.conf.in:3
 msgid "LaTex"
-msgstr ""
+msgstr "LaTex"
 
 #: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
 #: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic"
-msgstr ""
+msgstr "Фонетический"
 
 #: tables/bn/bengali-probhat.conf.in:3
 msgid "Probhat (phonetic)"
-msgstr ""
+msgstr "Probhat (фонетический)"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington"
-msgstr ""
+msgstr "Ремингтон"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized"
-msgstr ""
+msgstr "Романский"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
-msgstr ""
+msgstr "Русский традиционный"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha"
-msgstr ""
+msgstr "Swanalekha"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai"
-msgstr ""
+msgstr "Тайский"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional"
-msgstr ""
+msgstr "Традиционный"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit"
-msgstr ""
+msgstr "Транслит"
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit"
-msgstr ""
+msgstr "Украинский транслит"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr"
-msgstr ""
+msgstr "VIQR"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty"
-msgstr ""
+msgstr "ЯВЕРТЫ"
