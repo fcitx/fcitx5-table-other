@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Bon Keun Seo <scobyseo@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2013-04-25 00:02-0400\n"
+"PO-Revision-Date: 2017-07-15 12:53+0000\n"
+"Last-Translator: Bon Keun Seo <scobyseo@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: tables/am/amharic.conf.in:3
+msgid "Amharic"
+msgstr "암하라어"
+
+#: tables/ar/arabic.conf.in:3
+msgid "Arabic"
+msgstr "아라비아어"
+
+#: tables/bn/bengali-inscript.conf.in:3 tables/gu/gujarati-inscript.conf.in:3
+#: tables/hi/hindi-inscript.conf.in:3 tables/kn/kannada-inscript.conf.in:3
+#: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
+#: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
+msgid "Inscript"
+msgstr "인도어"
+
+#: tables/bn/bengali-probhat.conf.in:3
+msgid "Probhat (phonetic)"
+msgstr "Probhat (표음)"
+
+#: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
+#: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
+msgid "Phonetic"
+msgstr "표음"
+
+#: tables/kn/kannada-kgp.conf.in:3
+msgid "KGP"
+msgstr "KGP"
+
+#: tables/ml/malayalam-phonetic.conf.in:3
+msgid "Swanalekha"
+msgstr "Swanalekha"
+
+#: tables/ne/nepali-rom.conf.in:3
+msgid "Romanized"
+msgstr "로마자화"
+
+#: tables/ne/nepali-trad.conf.in:3
+msgid "Traditional"
+msgstr "중국어 번체"
+
+#: tables/other/cns11643.conf.in:3
+msgid "CNS11643"
+msgstr "CNS11643"
+
+#: tables/other/compose.conf.in:3
+msgid "Compose"
+msgstr "Compose"
+
+#: tables/other/emoji.conf.in:3
+msgid "Emoji"
+msgstr "그림문자"
+
+#: tables/other/ipa-x-sampa.conf.in:3
+msgid "IPA-X-SAMPA"
+msgstr "IPA-X-SAMPA"
+
+#: tables/other/latex.conf.in:3
+msgid "LaTex"
+msgstr "LaTex"
+
+#: tables/pa/punjabi-jhelum.conf.in:3
+msgid "Jhelum"
+msgstr "Jhelum"
+
+#: tables/ru/rustrad.conf.in:3
+msgid "Russian Traditional"
+msgstr "전통 러시아어"
+
+#: tables/ru/translit.conf.in:3
+msgid "Translit"
+msgstr "Translit"
+
+#: tables/ru/yawerty.conf.in:3
+msgid "Yawerty"
+msgstr "Yawerty"
+
+#: tables/ta/tamil-remington.conf.in:3
+msgid "Remington"
+msgstr "Remington"
+
+#: tables/th/thai.conf.in:3
+msgid "Thai"
+msgstr "태국어"
+
+#: tables/uk/translit-ua.conf.in:3
+msgid "Ua-Translit"
+msgstr "Ua-Translit"
+
+#: tables/vi/viqr.conf.in:3
+msgid "Viqr"
+msgstr "Viqr"
