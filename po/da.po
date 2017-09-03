@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
 "POT-Creation-Date: 2013-04-25 00:02-0400\n"
-"PO-Revision-Date: 2017-09-02 18:27+0000\n"
+"PO-Revision-Date: 2017-09-03 14:33+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic"
-msgstr ""
+msgstr "Amharisk"
 
 #: tables/ar/arabic.conf.in:3
 msgid "Arabic"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
-msgstr ""
+msgstr "Russisk (traditionel)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit"
