@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
 "POT-Creation-Date: 2013-04-25 00:02-0400\n"
-"PO-Revision-Date: 2017-09-03 14:33+0000\n"
+"PO-Revision-Date: 2017-09-11 21:49+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
 "MIME-Version: 1.0\n"
@@ -31,40 +31,40 @@ msgstr "Arabisk"
 #: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
 #: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
 msgid "Inscript"
-msgstr ""
+msgstr "Inscript"
 
 #: tables/bn/bengali-probhat.conf.in:3
 msgid "Probhat (phonetic)"
-msgstr ""
+msgstr "Probhat (fonetisk)"
 
 #: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
 #: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic"
-msgstr ""
+msgstr "Fonetisk"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP"
-msgstr ""
+msgstr "KGP"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha"
-msgstr ""
+msgstr "Swanalekha"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized"
-msgstr ""
+msgstr "Romaniseret"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional"
-msgstr ""
+msgstr "Traditionel"
 
 #: tables/other/cns11643.conf.in:3
 msgid "CNS11643"
-msgstr ""
+msgstr "CNS11643"
 
 #: tables/other/compose.conf.in:3
 msgid "Compose"
-msgstr ""
+msgstr "Sammensæt"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji"
@@ -72,7 +72,7 @@ msgstr "Emoji"
 
 #: tables/other/ipa-x-sampa.conf.in:3
 msgid "IPA-X-SAMPA"
-msgstr ""
+msgstr "IPA-X-SAMPA"
 
 #: tables/other/latex.conf.in:3
 msgid "LaTex"
@@ -80,7 +80,7 @@ msgstr "LaTex"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum"
-msgstr ""
+msgstr "Jhelum"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
@@ -88,15 +88,15 @@ msgstr "Russisk (traditionel)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit"
-msgstr ""
+msgstr "Translit"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty"
-msgstr ""
+msgstr "Yawerty"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington"
-msgstr ""
+msgstr "Remington"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai"
@@ -104,8 +104,8 @@ msgstr "Thai"
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit"
-msgstr ""
+msgstr "Ua-translit"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr"
-msgstr ""
+msgstr "Viqr"
