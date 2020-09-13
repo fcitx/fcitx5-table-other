@@ -1,23 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-other package.
 #
-# Translators:
-# csslayer <wengxt@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
 "POT-Creation-Date: 2020-09-12 19:31-0700\n"
-"PO-Revision-Date: 2013-04-29 10:04+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
-"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/fcitx/"
-"language/pa/)\n"
-"Language: pa\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANG\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic (Table)"
@@ -146,12 +142,3 @@ msgstr ""
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
 msgstr ""
-
-#~ msgid "Inscript"
-#~ msgstr "ਇਨਸਕਰਿਪਟ"
-
-#~ msgid "Jhelum"
-#~ msgstr "ਜੇਹਲਮ"
-
-#~ msgid "Phonetic"
-#~ msgstr "ਧੁਨੀ"

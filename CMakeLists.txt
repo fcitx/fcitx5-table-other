@@ -1,13 +1,19 @@
-cmake_minimum_required(VERSION 2.6)
-project(fcitx-table-extra NONE)
+cmake_minimum_required(VERSION 3.8)
+project(fcitx-table-other NONE)
 
-find_package(Fcitx 4.2.7 REQUIRED)
-find_program(TXT2MB txt2mb REQUIRED)
+find_package(ECM 1.0 REQUIRED)
+set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} "${CMAKE_CURRENT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
+
+include(FeatureSummary)
+include(ECMUninstallTarget)
+
+find_package(Gettext REQUIRED)
+find_package(LibIMETable REQUIRED)
+find_package(Fcitx5Utils REQUIRED)
 
 option(ENABLE_DEPRECATED Off "Enable deprecated table")
 
-_fcitx_add_uninstall_target()
-
-add_subdirectory(po)
 add_subdirectory(icons)
 add_subdirectory(tables)
+
+feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)

@@ -6,9 +6,9 @@
 # TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: fcitx\n"
+"Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2016-12-01 08:30-0800\n"
+"POT-Creation-Date: 2020-09-12 19:31-0700\n"
 "PO-Revision-Date: 2016-11-30 21:22+0000\n"
 "Last-Translator: TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>\n"
 "Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
@@ -21,93 +21,179 @@ msgstr ""
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: tables/am/amharic.conf.in:3
-msgid "Amharic"
+#, fuzzy
+msgid "Amharic (Table)"
 msgstr "Амхарский"
 
 #: tables/ar/arabic.conf.in:3
-msgid "Arabic"
+#, fuzzy
+msgid "Arabic (Table)"
 msgstr "Арабский"
 
 #: tables/other/cns11643.conf.in:3
-msgid "CNS11643"
+#, fuzzy
+msgid "CNS11643 (Table)"
 msgstr "CNS11643"
 
 #: tables/other/compose.conf.in:3
-msgid "Compose"
+#, fuzzy
+msgid "Compose (Table)"
 msgstr "Смешанный"
 
 #: tables/other/emoji.conf.in:3
-msgid "Emoji"
-msgstr "Эмодзи"
+msgid "Emoji (Table)"
+msgstr ""
 
 #: tables/other/ipa-x-sampa.conf.in:3
-msgid "IPA-X-SAMPA"
+#, fuzzy
+msgid "IPA-X-SAMPA (Table)"
 msgstr "IPA-X-SAMPA"
 
-#: tables/bn/bengali-inscript.conf.in:3 tables/gu/gujarati-inscript.conf.in:3
-#: tables/hi/hindi-inscript.conf.in:3 tables/kn/kannada-inscript.conf.in:3
-#: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
-#: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
-msgid "Inscript"
-msgstr "Инскрипт"
+#: tables/bn/bengali-inscript.conf.in:3
+msgid "Inscript - Bengali (Table)"
+msgstr ""
+
+#: tables/gu/gujarati-inscript.conf.in:3
+msgid "Inscript - Gujarati (Table)"
+msgstr ""
+
+#: tables/hi/hindi-inscript.conf.in:3
+msgid "Inscript - Hindi (Table)"
+msgstr ""
+
+#: tables/kn/kannada-inscript.conf.in:3
+msgid "Inscript - Kannada (Table)"
+msgstr ""
+
+#: tables/ml/malayalam-inscript.conf.in:3
+msgid "Inscript - Malayalam (Table)"
+msgstr ""
+
+#: tables/pa/punjabi-inscript.conf.in:3
+msgid "Inscript - Punjabi (Table)"
+msgstr ""
+
+#: tables/ta/tamil-inscript.conf.in:3
+msgid "Inscript - Tamil (Table)"
+msgstr ""
+
+#: tables/te/telugu-inscript.conf.in:3
+msgid "Inscript - Telugu (Table)"
+msgstr ""
 
 #: tables/pa/punjabi-jhelum.conf.in:3
-msgid "Jhelum"
-msgstr "Jhelum"
+msgid "Jhelum - Punjabi (Table)"
+msgstr ""
 
 #: tables/kn/kannada-kgp.conf.in:3
-msgid "KGP"
-msgstr "KGP"
+msgid "KGP - Kannada (Table)"
+msgstr ""
 
 #: tables/other/latex.conf.in:3
-msgid "LaTex"
-msgstr "LaTex"
+msgid "Latex (Table)"
+msgstr ""
 
-#: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
-#: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
-msgid "Phonetic"
-msgstr "Фонетический"
+#: tables/gu/gujarati-phonetic.conf.in:3
+msgid "Phonetic - Gujarati (Table)"
+msgstr ""
+
+#: tables/hi/hindi-phonetic.conf.in:3
+msgid "Phonetic - Hindi (Table)"
+msgstr ""
+
+#: tables/pa/punjabi-phonetic.conf.in:3
+msgid "Phonetic - Punjabi (Table)"
+msgstr ""
+
+#: tables/ta/tamil-phonetic.conf.in:3
+msgid "Phonetic - Tamil (Table)"
+msgstr ""
 
 #: tables/bn/bengali-probhat.conf.in:3
-msgid "Probhat (phonetic)"
+#, fuzzy
+msgid "Probhat (phonetic) - Bengali (Table)"
 msgstr "Probhat (фонетический)"
 
 #: tables/ta/tamil-remington.conf.in:3
-msgid "Remington"
-msgstr "Ремингтон"
+msgid "Remington - Tamil (Table)"
+msgstr ""
 
 #: tables/ne/nepali-rom.conf.in:3
-msgid "Romanized"
-msgstr "Романский"
+msgid "Romanized - Nepali (Table)"
+msgstr ""
 
 #: tables/ru/rustrad.conf.in:3
-msgid "Russian Traditional"
+#, fuzzy
+msgid "Russian Traditional (Table)"
 msgstr "Русский традиционный"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
-msgid "Swanalekha"
-msgstr "Swanalekha"
+msgid "Swanalekha - Malayalam (Table)"
+msgstr ""
 
 #: tables/th/thai.conf.in:3
-msgid "Thai"
-msgstr "Тайский"
+msgid "Thai (Table)"
+msgstr ""
 
 #: tables/ne/nepali-trad.conf.in:3
-msgid "Traditional"
-msgstr "Традиционный"
+msgid "Traditional - Nepali (Table)"
+msgstr ""
 
 #: tables/ru/translit.conf.in:3
-msgid "Translit"
-msgstr "Транслит"
+msgid "Translit - Russian (Table)"
+msgstr ""
 
 #: tables/uk/translit-ua.conf.in:3
-msgid "Ua-Translit"
+#, fuzzy
+msgid "Ua-Translit (Table)"
 msgstr "Украинский транслит"
 
 #: tables/vi/viqr.conf.in:3
-msgid "Viqr"
-msgstr "VIQR"
+msgid "Viqr (Table)"
+msgstr ""
 
 #: tables/ru/yawerty.conf.in:3
-msgid "Yawerty"
-msgstr "ЯВЕРТЫ"
+msgid "Yawerty - Russian (Table)"
+msgstr ""
+
+#~ msgid "Emoji"
+#~ msgstr "Эмодзи"
+
+#~ msgid "Inscript"
+#~ msgstr "Инскрипт"
+
+#~ msgid "Jhelum"
+#~ msgstr "Jhelum"
+
+#~ msgid "KGP"
+#~ msgstr "KGP"
+
+#~ msgid "LaTex"
+#~ msgstr "LaTex"
+
+#~ msgid "Phonetic"
+#~ msgstr "Фонетический"
+
+#~ msgid "Remington"
+#~ msgstr "Ремингтон"
+
+#~ msgid "Romanized"
+#~ msgstr "Романский"
+
+#~ msgid "Swanalekha"
+#~ msgstr "Swanalekha"
+
+#~ msgid "Thai"
+#~ msgstr "Тайский"
+
+#~ msgid "Traditional"
+#~ msgstr "Традиционный"
+
+#~ msgid "Translit"
+#~ msgstr "Транслит"
+
+#~ msgid "Viqr"
+#~ msgstr "VIQR"
+
+#~ msgid "Yawerty"
+#~ msgstr "ЯВЕРТЫ"

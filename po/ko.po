@@ -1,111 +1,197 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Bon Keun Seo <scobyseo@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: fcitx\n"
+"Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-04-25 00:02-0400\n"
+"POT-Creation-Date: 2020-09-12 19:31-0700\n"
 "PO-Revision-Date: 2017-07-15 12:53+0000\n"
 "Last-Translator: Bon Keun Seo <scobyseo@gmail.com>\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: tables/am/amharic.conf.in:3
-msgid "Amharic"
+#, fuzzy
+msgid "Amharic (Table)"
 msgstr "암하라어"
 
 #: tables/ar/arabic.conf.in:3
-msgid "Arabic"
+#, fuzzy
+msgid "Arabic (Table)"
 msgstr "아라비아어"
 
-#: tables/bn/bengali-inscript.conf.in:3 tables/gu/gujarati-inscript.conf.in:3
-#: tables/hi/hindi-inscript.conf.in:3 tables/kn/kannada-inscript.conf.in:3
-#: tables/ml/malayalam-inscript.conf.in:3 tables/pa/punjabi-inscript.conf.in:3
-#: tables/ta/tamil-inscript.conf.in:3 tables/te/telugu-inscript.conf.in:3
-msgid "Inscript"
-msgstr "인도어"
-
-#: tables/bn/bengali-probhat.conf.in:3
-msgid "Probhat (phonetic)"
-msgstr "Probhat (표음)"
-
-#: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
-#: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
-msgid "Phonetic"
-msgstr "표음"
-
-#: tables/kn/kannada-kgp.conf.in:3
-msgid "KGP"
-msgstr "KGP"
-
-#: tables/ml/malayalam-phonetic.conf.in:3
-msgid "Swanalekha"
-msgstr "Swanalekha"
-
-#: tables/ne/nepali-rom.conf.in:3
-msgid "Romanized"
-msgstr "로마자화"
-
-#: tables/ne/nepali-trad.conf.in:3
-msgid "Traditional"
-msgstr "중국어 번체"
-
 #: tables/other/cns11643.conf.in:3
-msgid "CNS11643"
+#, fuzzy
+msgid "CNS11643 (Table)"
 msgstr "CNS11643"
 
 #: tables/other/compose.conf.in:3
-msgid "Compose"
+#, fuzzy
+msgid "Compose (Table)"
 msgstr "Compose"
 
 #: tables/other/emoji.conf.in:3
-msgid "Emoji"
-msgstr "그림문자"
+msgid "Emoji (Table)"
+msgstr ""
 
 #: tables/other/ipa-x-sampa.conf.in:3
-msgid "IPA-X-SAMPA"
+#, fuzzy
+msgid "IPA-X-SAMPA (Table)"
 msgstr "IPA-X-SAMPA"
 
-#: tables/other/latex.conf.in:3
-msgid "LaTex"
-msgstr "LaTex"
+#: tables/bn/bengali-inscript.conf.in:3
+msgid "Inscript - Bengali (Table)"
+msgstr ""
+
+#: tables/gu/gujarati-inscript.conf.in:3
+msgid "Inscript - Gujarati (Table)"
+msgstr ""
+
+#: tables/hi/hindi-inscript.conf.in:3
+msgid "Inscript - Hindi (Table)"
+msgstr ""
+
+#: tables/kn/kannada-inscript.conf.in:3
+msgid "Inscript - Kannada (Table)"
+msgstr ""
+
+#: tables/ml/malayalam-inscript.conf.in:3
+msgid "Inscript - Malayalam (Table)"
+msgstr ""
+
+#: tables/pa/punjabi-inscript.conf.in:3
+msgid "Inscript - Punjabi (Table)"
+msgstr ""
+
+#: tables/ta/tamil-inscript.conf.in:3
+msgid "Inscript - Tamil (Table)"
+msgstr ""
+
+#: tables/te/telugu-inscript.conf.in:3
+msgid "Inscript - Telugu (Table)"
+msgstr ""
 
 #: tables/pa/punjabi-jhelum.conf.in:3
-msgid "Jhelum"
-msgstr "Jhelum"
+msgid "Jhelum - Punjabi (Table)"
+msgstr ""
 
-#: tables/ru/rustrad.conf.in:3
-msgid "Russian Traditional"
-msgstr "전통 러시아어"
+#: tables/kn/kannada-kgp.conf.in:3
+msgid "KGP - Kannada (Table)"
+msgstr ""
 
-#: tables/ru/translit.conf.in:3
-msgid "Translit"
-msgstr "Translit"
+#: tables/other/latex.conf.in:3
+msgid "Latex (Table)"
+msgstr ""
 
-#: tables/ru/yawerty.conf.in:3
-msgid "Yawerty"
-msgstr "Yawerty"
+#: tables/gu/gujarati-phonetic.conf.in:3
+msgid "Phonetic - Gujarati (Table)"
+msgstr ""
+
+#: tables/hi/hindi-phonetic.conf.in:3
+msgid "Phonetic - Hindi (Table)"
+msgstr ""
+
+#: tables/pa/punjabi-phonetic.conf.in:3
+msgid "Phonetic - Punjabi (Table)"
+msgstr ""
+
+#: tables/ta/tamil-phonetic.conf.in:3
+msgid "Phonetic - Tamil (Table)"
+msgstr ""
+
+#: tables/bn/bengali-probhat.conf.in:3
+#, fuzzy
+msgid "Probhat (phonetic) - Bengali (Table)"
+msgstr "Probhat (표음)"
 
 #: tables/ta/tamil-remington.conf.in:3
-msgid "Remington"
-msgstr "Remington"
+msgid "Remington - Tamil (Table)"
+msgstr ""
+
+#: tables/ne/nepali-rom.conf.in:3
+msgid "Romanized - Nepali (Table)"
+msgstr ""
+
+#: tables/ru/rustrad.conf.in:3
+#, fuzzy
+msgid "Russian Traditional (Table)"
+msgstr "전통 러시아어"
+
+#: tables/ml/malayalam-phonetic.conf.in:3
+msgid "Swanalekha - Malayalam (Table)"
+msgstr ""
 
 #: tables/th/thai.conf.in:3
-msgid "Thai"
-msgstr "태국어"
+msgid "Thai (Table)"
+msgstr ""
+
+#: tables/ne/nepali-trad.conf.in:3
+msgid "Traditional - Nepali (Table)"
+msgstr ""
+
+#: tables/ru/translit.conf.in:3
+msgid "Translit - Russian (Table)"
+msgstr ""
 
 #: tables/uk/translit-ua.conf.in:3
-msgid "Ua-Translit"
+#, fuzzy
+msgid "Ua-Translit (Table)"
 msgstr "Ua-Translit"
 
 #: tables/vi/viqr.conf.in:3
-msgid "Viqr"
-msgstr "Viqr"
+msgid "Viqr (Table)"
+msgstr ""
+
+#: tables/ru/yawerty.conf.in:3
+msgid "Yawerty - Russian (Table)"
+msgstr ""
+
+#~ msgid "Emoji"
+#~ msgstr "그림문자"
+
+#~ msgid "Inscript"
+#~ msgstr "인도어"
+
+#~ msgid "Jhelum"
+#~ msgstr "Jhelum"
+
+#~ msgid "KGP"
+#~ msgstr "KGP"
+
+#~ msgid "LaTex"
+#~ msgstr "LaTex"
+
+#~ msgid "Phonetic"
+#~ msgstr "표음"
+
+#~ msgid "Remington"
+#~ msgstr "Remington"
+
+#~ msgid "Romanized"
+#~ msgstr "로마자화"
+
+#~ msgid "Swanalekha"
+#~ msgstr "Swanalekha"
+
+#~ msgid "Thai"
+#~ msgstr "태국어"
+
+#~ msgid "Traditional"
+#~ msgstr "중국어 번체"
+
+#~ msgid "Translit"
+#~ msgstr "Translit"
+
+#~ msgid "Viqr"
+#~ msgstr "Viqr"
+
+#~ msgid "Yawerty"
+#~ msgstr "Yawerty"
