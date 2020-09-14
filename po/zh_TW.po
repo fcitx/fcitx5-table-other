@@ -1,21 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# Alisha <alisha.4m@gmail.com>, 2012
-# BrLi <rainman59118@gmail.com>, 2014
-# Hiunn-hué <hiunnhue108@ymail.com>, 2012
-# csslayer <wengxt@gmail.com>, 2013
+# 黃柏諺 <s8321414@gmail.com>, 2020
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-09-12 19:31-0700\n"
-"PO-Revision-Date: 2014-06-06 05:05+0000\n"
-"Last-Translator: BrLi <rainman59118@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/"
-"language/zh_TW/)\n"
+"POT-Creation-Date: 2020-09-14 00:02-0700\n"
+"PO-Revision-Date: 2020-09-13 02:33+0000\n"
+"Last-Translator: 黃柏諺 <s8321414@gmail.com>, 2020\n"
+"Language-Team: Chinese (Taiwan) (https://www.transifex.com/fcitx/teams/12005/"
+"zh_TW/)\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,179 +21,129 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: tables/am/amharic.conf.in:3
-#, fuzzy
 msgid "Amharic (Table)"
-msgstr "阿姆哈拉文"
+msgstr "阿姆哈拉文（表格）"
 
 #: tables/ar/arabic.conf.in:3
-#, fuzzy
 msgid "Arabic (Table)"
-msgstr "阿拉伯文"
+msgstr "阿拉伯文（表格）"
 
 #: tables/other/cns11643.conf.in:3
-#, fuzzy
 msgid "CNS11643 (Table)"
-msgstr "中文標準交換碼"
+msgstr "CNS11643（表格）"
 
 #: tables/other/compose.conf.in:3
-#, fuzzy
 msgid "Compose (Table)"
-msgstr "編組"
+msgstr "編組（表格）"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji (Table)"
-msgstr ""
+msgstr "表情符號（表格）"
 
 #: tables/other/ipa-x-sampa.conf.in:3
-#, fuzzy
 msgid "IPA-X-SAMPA (Table)"
-msgstr "IPA-X-SAMPA"
+msgstr "IPA-X-SAMPA（表格）"
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
-msgstr ""
+msgstr "碑文 - 孟加拉文（表格）"
 
 #: tables/gu/gujarati-inscript.conf.in:3
 msgid "Inscript - Gujarati (Table)"
-msgstr ""
+msgstr "碑文 - 古吉拉特文（表格）"
 
 #: tables/hi/hindi-inscript.conf.in:3
 msgid "Inscript - Hindi (Table)"
-msgstr ""
+msgstr "碑文 - 印地文（表格）"
 
 #: tables/kn/kannada-inscript.conf.in:3
 msgid "Inscript - Kannada (Table)"
-msgstr ""
+msgstr "碑文 - 卡納達文（表格）"
 
 #: tables/ml/malayalam-inscript.conf.in:3
 msgid "Inscript - Malayalam (Table)"
-msgstr ""
+msgstr "碑文 - 馬拉雅拉姆文（表格）"
 
 #: tables/pa/punjabi-inscript.conf.in:3
 msgid "Inscript - Punjabi (Table)"
-msgstr ""
+msgstr "碑文 - 旁遮普文（表格）"
 
 #: tables/ta/tamil-inscript.conf.in:3
 msgid "Inscript - Tamil (Table)"
-msgstr ""
+msgstr "碑文 - 坦米爾文（表格）"
 
 #: tables/te/telugu-inscript.conf.in:3
 msgid "Inscript - Telugu (Table)"
-msgstr ""
+msgstr "碑文 - 泰盧固文（表格）"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum - Punjabi (Table)"
-msgstr ""
+msgstr "傑赫勒姆 - 旁遮普文（表格）"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP - Kannada (Table)"
-msgstr ""
+msgstr "KGP - 卡納達文（表格）"
 
 #: tables/other/latex.conf.in:3
 msgid "Latex (Table)"
-msgstr ""
+msgstr "Latex（表格）"
 
 #: tables/gu/gujarati-phonetic.conf.in:3
 msgid "Phonetic - Gujarati (Table)"
-msgstr ""
+msgstr "語音 - 古吉拉特文（表格）"
 
 #: tables/hi/hindi-phonetic.conf.in:3
 msgid "Phonetic - Hindi (Table)"
-msgstr ""
+msgstr "語音 - 印地文（表格）"
 
 #: tables/pa/punjabi-phonetic.conf.in:3
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "語音 - 旁遮普文（表格）"
 
 #: tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic - Tamil (Table)"
-msgstr ""
+msgstr "語音 - 坦米爾文（表格）"
 
 #: tables/bn/bengali-probhat.conf.in:3
-#, fuzzy
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr "Probhat（音標）"
+msgstr "Probhat（語音）- 孟加拉文（表格）"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
-msgstr ""
+msgstr "雷明頓 - 坦米爾文（表格）"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized - Nepali (Table)"
-msgstr ""
+msgstr "羅馬化 - 尼泊爾文（表格）"
 
 #: tables/ru/rustrad.conf.in:3
-#, fuzzy
 msgid "Russian Traditional (Table)"
-msgstr "傳統俄文"
+msgstr "傳統俄文（表格）"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
-msgstr ""
+msgstr "Swanalekha - 馬拉雅拉姆文（表格）"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
-msgstr ""
+msgstr "泰文（表格）"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
-msgstr ""
+msgstr "傳統 - 尼泊爾文（表格）"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
-msgstr ""
+msgstr "翻譯 - 俄文（表格）"
 
 #: tables/uk/translit-ua.conf.in:3
-#, fuzzy
 msgid "Ua-Translit (Table)"
-msgstr "Ua-Translit"
+msgstr "Ua-轉換（表格）"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr (Table)"
-msgstr ""
+msgstr "可讀越語引述法（表格）"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
-msgstr ""
-
-#~ msgid "Emoji"
-#~ msgstr "顏文字"
-
-#~ msgid "Inscript"
-#~ msgstr "Inscript（印度文字）"
-
-#~ msgid "Jhelum"
-#~ msgstr "傑赫勒姆"
-
-#~ msgid "KGP"
-#~ msgstr "KGP"
-
-#~ msgid "LaTex"
-#~ msgstr "LaTex"
-
-#~ msgid "Phonetic"
-#~ msgstr "音標"
-
-#~ msgid "Remington"
-#~ msgstr "雷明登"
-
-#~ msgid "Romanized"
-#~ msgstr "羅馬化"
-
-#~ msgid "Swanalekha"
-#~ msgstr "Swanalekha"
-
-#~ msgid "Thai"
-#~ msgstr "泰文"
-
-#~ msgid "Traditional"
-#~ msgstr "傳統"
-
-#~ msgid "Translit"
-#~ msgstr "Translit"
-
-#~ msgid "Viqr"
-#~ msgstr "Viqr"
-
-#~ msgid "Yawerty"
-#~ msgstr "Yawerty"
+msgstr "Yawerty - 俄文（表格）"
