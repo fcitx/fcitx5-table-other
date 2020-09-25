@@ -1,17 +1,18 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# scootergrisen, 2017
+# scootergrisen, 2020
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-09-12 19:31-0700\n"
-"PO-Revision-Date: 2017-09-11 21:49+0000\n"
-"Last-Translator: scootergrisen\n"
-"Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
+"POT-Creation-Date: 2020-09-25 00:02-0700\n"
+"PO-Revision-Date: 2020-09-13 02:33+0000\n"
+"Last-Translator: scootergrisen, 2020\n"
+"Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,33 +20,28 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: tables/am/amharic.conf.in:3
-#, fuzzy
 msgid "Amharic (Table)"
-msgstr "Amharisk"
+msgstr "Amharisk (tabel)"
 
 #: tables/ar/arabic.conf.in:3
-#, fuzzy
 msgid "Arabic (Table)"
-msgstr "Arabisk"
+msgstr "Arabisk (tabel)"
 
 #: tables/other/cns11643.conf.in:3
-#, fuzzy
 msgid "CNS11643 (Table)"
-msgstr "CNS11643"
+msgstr "CNS11643 (tabel)"
 
 #: tables/other/compose.conf.in:3
-#, fuzzy
 msgid "Compose (Table)"
-msgstr "Sammensæt"
+msgstr "Sammensæt (tabel)"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji (Table)"
-msgstr ""
+msgstr "Emoji (tabel)"
 
 #: tables/other/ipa-x-sampa.conf.in:3
-#, fuzzy
 msgid "IPA-X-SAMPA (Table)"
-msgstr "IPA-X-SAMPA"
+msgstr "IPA-X-SAMPA (tabel)"
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
@@ -89,7 +85,7 @@ msgstr ""
 
 #: tables/other/latex.conf.in:3
 msgid "Latex (Table)"
-msgstr ""
+msgstr "Latex (tabel)"
 
 #: tables/gu/gujarati-phonetic.conf.in:3
 msgid "Phonetic - Gujarati (Table)"
@@ -108,9 +104,8 @@ msgid "Phonetic - Tamil (Table)"
 msgstr ""
 
 #: tables/bn/bengali-probhat.conf.in:3
-#, fuzzy
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr "Probhat (fonetisk)"
+msgstr ""
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
@@ -121,9 +116,8 @@ msgid "Romanized - Nepali (Table)"
 msgstr ""
 
 #: tables/ru/rustrad.conf.in:3
-#, fuzzy
 msgid "Russian Traditional (Table)"
-msgstr "Russisk (traditionel)"
+msgstr ""
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
@@ -131,7 +125,7 @@ msgstr ""
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
-msgstr ""
+msgstr "Thai (tabel)"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
@@ -142,9 +136,8 @@ msgid "Translit - Russian (Table)"
 msgstr ""
 
 #: tables/uk/translit-ua.conf.in:3
-#, fuzzy
 msgid "Ua-Translit (Table)"
-msgstr "Ua-translit"
+msgstr ""
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr (Table)"
@@ -153,45 +146,3 @@ msgstr ""
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
 msgstr ""
-
-#~ msgid "Emoji"
-#~ msgstr "Emoji"
-
-#~ msgid "Inscript"
-#~ msgstr "Inscript"
-
-#~ msgid "Jhelum"
-#~ msgstr "Jhelum"
-
-#~ msgid "KGP"
-#~ msgstr "KGP"
-
-#~ msgid "LaTex"
-#~ msgstr "LaTex"
-
-#~ msgid "Phonetic"
-#~ msgstr "Fonetisk"
-
-#~ msgid "Remington"
-#~ msgstr "Remington"
-
-#~ msgid "Romanized"
-#~ msgstr "Romaniseret"
-
-#~ msgid "Swanalekha"
-#~ msgstr "Swanalekha"
-
-#~ msgid "Thai"
-#~ msgstr "Thai"
-
-#~ msgid "Traditional"
-#~ msgstr "Traditionel"
-
-#~ msgid "Translit"
-#~ msgstr "Translit"
-
-#~ msgid "Viqr"
-#~ msgstr "Viqr"
-
-#~ msgid "Yawerty"
-#~ msgstr "Yawerty"
