@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-09-25 00:02-0700\n"
+"POT-Creation-Date: 2020-10-15 00:02-0700\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
 "Last-Translator: scootergrisen, 2020\n"
 "Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
@@ -45,43 +45,43 @@ msgstr "IPA-X-SAMPA (tabel)"
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
-msgstr ""
+msgstr "Inscript - Bengali (tabel)"
 
 #: tables/gu/gujarati-inscript.conf.in:3
 msgid "Inscript - Gujarati (Table)"
-msgstr ""
+msgstr "Inscript - Gujarati (tabel)"
 
 #: tables/hi/hindi-inscript.conf.in:3
 msgid "Inscript - Hindi (Table)"
-msgstr ""
+msgstr "Inscript - Hindi (tabel)"
 
 #: tables/kn/kannada-inscript.conf.in:3
 msgid "Inscript - Kannada (Table)"
-msgstr ""
+msgstr "Inscript - Kannada (tabel)"
 
 #: tables/ml/malayalam-inscript.conf.in:3
 msgid "Inscript - Malayalam (Table)"
-msgstr ""
+msgstr "Inscript - Malayalam (tabel)"
 
 #: tables/pa/punjabi-inscript.conf.in:3
 msgid "Inscript - Punjabi (Table)"
-msgstr ""
+msgstr "Inscript - Punjabi (tabel)"
 
 #: tables/ta/tamil-inscript.conf.in:3
 msgid "Inscript - Tamil (Table)"
-msgstr ""
+msgstr "Inscript - Tamil (tabel)"
 
 #: tables/te/telugu-inscript.conf.in:3
 msgid "Inscript - Telugu (Table)"
-msgstr ""
+msgstr "Inscript - Telugu (tabel)"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum - Punjabi (Table)"
-msgstr ""
+msgstr "Jhelum - Punjabi (tabel)"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP - Kannada (Table)"
-msgstr ""
+msgstr "KGP - Kannada (tabel)"
 
 #: tables/other/latex.conf.in:3
 msgid "Latex (Table)"
@@ -89,39 +89,39 @@ msgstr "Latex (tabel)"
 
 #: tables/gu/gujarati-phonetic.conf.in:3
 msgid "Phonetic - Gujarati (Table)"
-msgstr ""
+msgstr "Fonetisk - Gujarati (tabel)"
 
 #: tables/hi/hindi-phonetic.conf.in:3
 msgid "Phonetic - Hindi (Table)"
-msgstr ""
+msgstr "Fonetisk - Hindi (tabel)"
 
 #: tables/pa/punjabi-phonetic.conf.in:3
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "Fonetisk - Punjabi (tabel)"
 
 #: tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic - Tamil (Table)"
-msgstr ""
+msgstr "Fonetisk - Tamil (tabel)"
 
 #: tables/bn/bengali-probhat.conf.in:3
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr ""
+msgstr "Probhat (fonetisk) - Bengali (tabel)"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
-msgstr ""
+msgstr "Remington - Tamil (tabel)"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized - Nepali (Table)"
-msgstr ""
+msgstr "Romaniseret - Nepali (tabel)"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional (Table)"
-msgstr ""
+msgstr "Russisk (traditionel) (tabel)"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
-msgstr ""
+msgstr "Swanalekha - Malayalam (tabel)"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
@@ -129,20 +129,20 @@ msgstr "Thai (tabel)"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
-msgstr ""
+msgstr "Traditionel - Nepalesisk (tabel)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
-msgstr ""
+msgstr "Translit - Russisk (tabel)"
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit (Table)"
-msgstr ""
+msgstr "Ua-Translit (tabel)"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr (Table)"
-msgstr ""
+msgstr "Viqr (tabel)"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
-msgstr ""
+msgstr "Yawerty - Russisk (tabel)"
