@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-03 00:03-0800\n"
+"POT-Creation-Date: 2020-11-14 00:03-0800\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
 "Last-Translator: scootergrisen, 2020\n"
 "Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
@@ -25,7 +25,7 @@ msgstr "Yderligere tabel til Fcitx 5"
 
 #: org.fcitx.fcitx5-table-other.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr "Yderligere tabelbaseret inputmetode til Fcitx 5"
+msgstr "Yderligere tabelbaseret-inputmetode til Fcitx 5"
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic (Table)"
