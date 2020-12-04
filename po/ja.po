@@ -1,205 +1,156 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# WAKAYAMA Shirou <shirou.faw@gmail.com>, 2013
+# Takuro Onoue <kusanaginoturugi@gmail.com>, 2020
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 15:54-0800\n"
-"PO-Revision-Date: 2013-04-29 10:04+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
-"Language-Team: Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)\n"
+"POT-Creation-Date: 2020-12-05 00:03+0100\n"
+"PO-Revision-Date: 2020-09-13 02:33+0000\n"
+"Last-Translator: Takuro Onoue <kusanaginoturugi@gmail.com>, 2020\n"
+"Language-Team: Japanese (https://www.transifex.com/fcitx/teams/12005/ja/)\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:7
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:7
 msgid "Additional Table for Fcitx 5"
-msgstr ""
+msgstr "Fcitx5の追加テーブル"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:8
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr ""
+msgstr "追加テーブルによる Fcitx 5 入力メソッド"
 
 #: tables/am/amharic.conf.in:3
-#, fuzzy
 msgid "Amharic (Table)"
-msgstr "アムハラ語"
+msgstr "アムハラ語 (テーブル)"
 
 #: tables/ar/arabic.conf.in:3
-#, fuzzy
 msgid "Arabic (Table)"
-msgstr "アラビア語"
+msgstr "アラビア語 (テーブル)"
 
 #: tables/other/cns11643.conf.in:3
-#, fuzzy
 msgid "CNS11643 (Table)"
-msgstr "CNS11643"
+msgstr "CNS11643 (テーブル)"
 
 #: tables/other/compose.conf.in:3
-#, fuzzy
 msgid "Compose (Table)"
-msgstr "Compose"
+msgstr "Compose (テーブル)"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji (Table)"
-msgstr ""
+msgstr "Emoji (テーブル)"
 
 #: tables/other/ipa-x-sampa.conf.in:3
-#, fuzzy
 msgid "IPA-X-SAMPA (Table)"
-msgstr "IPA-X-SAMPA"
+msgstr "IPA-X-SAMPA (テーブル)"
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
-msgstr ""
+msgstr "インスクリプト - ベンガル語 (テーブル)"
 
 #: tables/gu/gujarati-inscript.conf.in:3
 msgid "Inscript - Gujarati (Table)"
-msgstr ""
+msgstr "インスクリプト - グジャラート語 (テーブル)"
 
 #: tables/hi/hindi-inscript.conf.in:3
 msgid "Inscript - Hindi (Table)"
-msgstr ""
+msgstr "インスクリプト - ヒンディ語 (テーブル)"
 
 #: tables/kn/kannada-inscript.conf.in:3
 msgid "Inscript - Kannada (Table)"
-msgstr ""
+msgstr "インスクリプト - カンナダ語 (テーブル)"
 
 #: tables/ml/malayalam-inscript.conf.in:3
 msgid "Inscript - Malayalam (Table)"
-msgstr ""
+msgstr "インスクリプト - マラヤーラム語 (テーブル)"
 
 #: tables/pa/punjabi-inscript.conf.in:3
 msgid "Inscript - Punjabi (Table)"
-msgstr ""
+msgstr "インスクリプト - パンジャブ語 (テーブル)"
 
 #: tables/ta/tamil-inscript.conf.in:3
 msgid "Inscript - Tamil (Table)"
-msgstr ""
+msgstr "インスクリプト - タミル語 (テーブル)"
 
 #: tables/te/telugu-inscript.conf.in:3
 msgid "Inscript - Telugu (Table)"
-msgstr ""
+msgstr "インスクリプト - テルグ語 (テーブル)"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum - Punjabi (Table)"
-msgstr ""
+msgstr "Jhelum - パンジャブ語 (テーブル)"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP - Kannada (Table)"
-msgstr ""
+msgstr "KGP - カンナダ語 (テーブル)"
 
 #: tables/other/latex.conf.in:3
 msgid "Latex (Table)"
-msgstr ""
+msgstr "Latex (テーブル)"
 
 #: tables/gu/gujarati-phonetic.conf.in:3
 msgid "Phonetic - Gujarati (Table)"
-msgstr ""
+msgstr "フォネティック - グジャラート語 (テーブル)"
 
 #: tables/hi/hindi-phonetic.conf.in:3
 msgid "Phonetic - Hindi (Table)"
-msgstr ""
+msgstr "フォネティック - ヒンディ語 (テーブル)"
 
 #: tables/pa/punjabi-phonetic.conf.in:3
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "フォネティック - パンジャブ語 (テーブル)"
 
 #: tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic - Tamil (Table)"
-msgstr ""
+msgstr "フォネティック - タミル語 (テーブル)"
 
 #: tables/bn/bengali-probhat.conf.in:3
-#, fuzzy
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr "Probhat (表音)"
+msgstr "Probhat (phonetic) - ベンガル語 (テーブル)"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
-msgstr ""
+msgstr "レミントン-タミル語 (テーブル)"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized - Nepali (Table)"
-msgstr ""
+msgstr "ローマ字 - ネパール語 (テーブル)"
 
 #: tables/ru/rustrad.conf.in:3
-#, fuzzy
 msgid "Russian Traditional (Table)"
-msgstr "伝統的ロシア語"
+msgstr "伝統的ロシア語 (テーブル)"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
-msgstr ""
+msgstr "スワナレカ - マラヤーラム語 (テーブル)"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
-msgstr ""
+msgstr "タイ語 (テーブル)"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
-msgstr ""
+msgstr "伝統的 - ネパール語 (テーブル)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
-msgstr ""
+msgstr "Translit - ロシア語 (テーブル)"
 
 #: tables/uk/translit-ua.conf.in:3
-#, fuzzy
 msgid "Ua-Translit (Table)"
-msgstr "Ua-Translit"
+msgstr "Ua-Translit (テーブル)"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr (Table)"
-msgstr ""
+msgstr "Viqr (テーブル)"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
-msgstr ""
-
-#~ msgid "Emoji"
-#~ msgstr "絵文字"
-
-#~ msgid "Inscript"
-#~ msgstr "インド文字"
-
-#~ msgid "Jhelum"
-#~ msgstr "Jhelum"
-
-#~ msgid "KGP"
-#~ msgstr "KGP"
-
-#~ msgid "LaTex"
-#~ msgstr "LaTex"
-
-#~ msgid "Phonetic"
-#~ msgstr "表音"
-
-#~ msgid "Remington"
-#~ msgstr "Remington"
-
-#~ msgid "Romanized"
-#~ msgstr "ローマ字"
-
-#~ msgid "Swanalekha"
-#~ msgstr "Swanalekha"
-
-#~ msgid "Thai"
-#~ msgstr "タイ語"
-
-#~ msgid "Traditional"
-#~ msgstr "中国語繁体字"
-
-#~ msgid "Translit"
-#~ msgstr "Translit"
-
-#~ msgid "Viqr"
-#~ msgstr "Viqr"
-
-#~ msgid "Yawerty"
-#~ msgstr "Yawerty"
+msgstr "Yawerty - ロシア語 (テーブル)"
