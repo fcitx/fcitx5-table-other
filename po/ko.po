@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2021-02-10 20:24+0000\n"
+"POT-Creation-Date: 2021-04-02 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
 "Last-Translator: Bruce Lee <daemul72@gmail.com>, 2021\n"
 "Language-Team: Korean (https://www.transifex.com/fcitx/teams/12005/ko/)\n"
@@ -33,31 +33,31 @@ msgstr "암하라어 (표)"
 
 #: tables/ar/arabic.conf.in:3
 msgid "Arabic (Table)"
-msgstr ""
+msgstr "아랍어 (표)"
 
 #: tables/other/cns11643.conf.in:3
 msgid "CNS11643 (Table)"
-msgstr ""
+msgstr "CNS11643 (표)"
 
 #: tables/other/compose.conf.in:3
 msgid "Compose (Table)"
-msgstr ""
+msgstr "구성 (표)"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji (Table)"
-msgstr "이모티콘 (표)"
+msgstr "이모지 (표)"
 
 #: tables/other/ipa-x-sampa.conf.in:3
 msgid "IPA-X-SAMPA (Table)"
-msgstr ""
+msgstr "IPA-X-SAMPA (표)"
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
-msgstr ""
+msgstr "Inscript - 벵골어 (표)"
 
 #: tables/gu/gujarati-inscript.conf.in:3
 msgid "Inscript - Gujarati (Table)"
-msgstr ""
+msgstr "Inscript - 구자라트어 (표)"
 
 #: tables/hi/hindi-inscript.conf.in:3
 msgid "Inscript - Hindi (Table)"
@@ -65,15 +65,15 @@ msgstr "Inscript - 힌디어 (표)"
 
 #: tables/kn/kannada-inscript.conf.in:3
 msgid "Inscript - Kannada (Table)"
-msgstr ""
+msgstr "Inscript - 칸나다어 (표)"
 
 #: tables/ml/malayalam-inscript.conf.in:3
 msgid "Inscript - Malayalam (Table)"
-msgstr ""
+msgstr "Inscript - 말라얄람어 (표)"
 
 #: tables/pa/punjabi-inscript.conf.in:3
 msgid "Inscript - Punjabi (Table)"
-msgstr "Inscript - 펀잡어 (표)"
+msgstr "Inscript - 펀자브어 (표)"
 
 #: tables/ta/tamil-inscript.conf.in:3
 msgid "Inscript - Tamil (Table)"
@@ -85,11 +85,11 @@ msgstr "Inscript - 텔루구어 (표)"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum - Punjabi (Table)"
-msgstr "Jhelum - 펀잡어 (표)"
+msgstr "젤룸 - 펀자브어 (표)"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP - Kannada (Table)"
-msgstr ""
+msgstr "KGP - 칸나다어 (표)"
 
 #: tables/other/latex.conf.in:3
 msgid "Latex (Table)"
@@ -105,7 +105,7 @@ msgstr "표음 - 힌디어 (표)"
 
 #: tables/pa/punjabi-phonetic.conf.in:3
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "표음 - 펀자브어 (표)"
 
 #: tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic - Tamil (Table)"
@@ -117,7 +117,7 @@ msgstr "Probhat (표음) - 벵골어 (표)"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
-msgstr ""
+msgstr "레밍턴 - 타밀어 (표)"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized - Nepali (Table)"
@@ -129,7 +129,7 @@ msgstr "러시아어 번체 (표)"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
-msgstr ""
+msgstr "스와날레카 - 말라얄람어 (표)"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
@@ -141,7 +141,7 @@ msgstr "번체 - 네팔어 (표)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
-msgstr ""
+msgstr "음역 - 러시아어 (표)"
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit (Table)"
@@ -153,4 +153,4 @@ msgstr "Viqr (표)"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
-msgstr ""
+msgstr "Yawerty - 러시아어 (표)"
