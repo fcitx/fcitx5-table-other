@@ -4,14 +4,15 @@
 #
 # Translators:
 # 黃柏諺 <s8321414@gmail.com>, 2020
+# Steve Nian, 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 15:56-0800\n"
+"POT-Creation-Date: 2022-01-13 20:24+0000\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
-"Last-Translator: 黃柏諺 <s8321414@gmail.com>, 2020\n"
+"Last-Translator: Steve Nian, 2022\n"
 "Language-Team: Chinese (Taiwan) (https://www.transifex.com/fcitx/teams/12005/"
 "zh_TW/)\n"
 "Language: zh_TW\n"
@@ -20,13 +21,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:7
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:7
 msgid "Additional Table for Fcitx 5"
-msgstr ""
+msgstr "Fcitx 5 的額外表格"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:8
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr ""
+msgstr "Fcitx 5 額外的基於表格的輸入法"
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic (Table)"
