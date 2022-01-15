@@ -1,60 +1,55 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# mar well <m.wellendorf@gmx.de>, 2013
-# mar well <m.wellendorf@gmx.de>, 2014,2017
+# Ettore Atalan <atalanttore@googlemail.com>, 2022
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 15:54-0800\n"
-"PO-Revision-Date: 2017-07-28 12:24+0000\n"
-"Last-Translator: mar well <m.wellendorf@gmx.de>\n"
-"Language-Team: German (http://www.transifex.com/fcitx/fcitx/language/de/)\n"
+"POT-Creation-Date: 2022-01-15 20:24+0000\n"
+"PO-Revision-Date: 2020-09-13 02:33+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2022\n"
+"Language-Team: German (https://www.transifex.com/fcitx/teams/12005/de/)\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:7
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:7
 msgid "Additional Table for Fcitx 5"
 msgstr ""
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:8
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
 msgstr ""
 
 #: tables/am/amharic.conf.in:3
-#, fuzzy
 msgid "Amharic (Table)"
-msgstr "Amharic"
+msgstr "Amharisch (Tabelle)"
 
 #: tables/ar/arabic.conf.in:3
-#, fuzzy
 msgid "Arabic (Table)"
-msgstr "Arabic"
+msgstr "Arabisch (Tabelle)"
 
 #: tables/other/cns11643.conf.in:3
-#, fuzzy
 msgid "CNS11643 (Table)"
-msgstr "CNS11643"
+msgstr ""
 
 #: tables/other/compose.conf.in:3
-#, fuzzy
 msgid "Compose (Table)"
-msgstr "Zusammenfügen"
+msgstr ""
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji (Table)"
 msgstr ""
 
 #: tables/other/ipa-x-sampa.conf.in:3
-#, fuzzy
 msgid "IPA-X-SAMPA (Table)"
-msgstr "IPA-X-SAMPA"
+msgstr ""
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
@@ -106,20 +101,19 @@ msgstr ""
 
 #: tables/hi/hindi-phonetic.conf.in:3
 msgid "Phonetic - Hindi (Table)"
-msgstr ""
+msgstr "Phonetisch - Hindi (Tabelle)"
 
 #: tables/pa/punjabi-phonetic.conf.in:3
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "Phonetisch - Panjabi (Tabelle)"
 
 #: tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic - Tamil (Table)"
-msgstr ""
+msgstr "Phonetisch - Tamilisch (Tabelle)"
 
 #: tables/bn/bengali-probhat.conf.in:3
-#, fuzzy
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr "Probhat (phonetisch)"
+msgstr ""
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
@@ -127,12 +121,11 @@ msgstr ""
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized - Nepali (Table)"
-msgstr ""
+msgstr "Romanisiert - Nepali (Tabelle)"
 
 #: tables/ru/rustrad.conf.in:3
-#, fuzzy
 msgid "Russian Traditional (Table)"
-msgstr "Traditionelles Russisch"
+msgstr "Traditionelles Russisch (Tabelle)"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
@@ -140,20 +133,19 @@ msgstr ""
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
-msgstr ""
+msgstr "Thailändisch (Tabelle)"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
-msgstr ""
+msgstr "Traditionell - Nepali (Tabelle)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
 msgstr ""
 
 #: tables/uk/translit-ua.conf.in:3
-#, fuzzy
 msgid "Ua-Translit (Table)"
-msgstr "Ua-Translit"
+msgstr ""
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr (Table)"
@@ -162,45 +154,3 @@ msgstr ""
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
 msgstr ""
-
-#~ msgid "Emoji"
-#~ msgstr "Emoji"
-
-#~ msgid "Inscript"
-#~ msgstr "Inscript"
-
-#~ msgid "Jhelum"
-#~ msgstr "Jhelum"
-
-#~ msgid "KGP"
-#~ msgstr "KGP"
-
-#~ msgid "LaTex"
-#~ msgstr "LaTex"
-
-#~ msgid "Phonetic"
-#~ msgstr "Phonetisch"
-
-#~ msgid "Remington"
-#~ msgstr "Remington"
-
-#~ msgid "Romanized"
-#~ msgstr "Romanisiert"
-
-#~ msgid "Swanalekha"
-#~ msgstr "Swanalekha"
-
-#~ msgid "Thai"
-#~ msgstr "Thailändisch"
-
-#~ msgid "Traditional"
-#~ msgstr "Traditionell"
-
-#~ msgid "Translit"
-#~ msgstr "Translit"
-
-#~ msgid "Viqr"
-#~ msgstr "Viqr"
-
-#~ msgid "Yawerty"
-#~ msgstr "Yawerty"
