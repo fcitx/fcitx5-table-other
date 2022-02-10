@@ -1,17 +1,18 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
+# Dmitry <dmitrydmitry761@gmail.com>, 2022
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-02 15:54-0800\n"
-"PO-Revision-Date: 2016-11-30 21:22+0000\n"
-"Last-Translator: TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>\n"
-"Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
+"POT-Creation-Date: 2022-02-10 20:24+0000\n"
+"PO-Revision-Date: 2020-09-13 02:33+0000\n"
+"Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022\n"
+"Language-Team: Russian (https://www.transifex.com/fcitx/teams/12005/ru/)\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,188 +21,138 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:7
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:7
 msgid "Additional Table for Fcitx 5"
-msgstr ""
+msgstr "Дополнительная таблица для Fcitx 5"
 
-#: org.fcitx.fcitx5-table-other.metainfo.xml.in:8
+#: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr ""
+msgstr "Дополнительный метод ввода \"таблица\" для Fcitx 5"
 
 #: tables/am/amharic.conf.in:3
-#, fuzzy
 msgid "Amharic (Table)"
-msgstr "Амхарский"
+msgstr "Амхарский (Таблица)"
 
 #: tables/ar/arabic.conf.in:3
-#, fuzzy
 msgid "Arabic (Table)"
-msgstr "Арабский"
+msgstr "Арабский (Таблица)"
 
 #: tables/other/cns11643.conf.in:3
-#, fuzzy
 msgid "CNS11643 (Table)"
-msgstr "CNS11643"
+msgstr "CNS11643 (Таблица)"
 
 #: tables/other/compose.conf.in:3
-#, fuzzy
 msgid "Compose (Table)"
-msgstr "Смешанный"
+msgstr "Compose (Таблица)"
 
 #: tables/other/emoji.conf.in:3
 msgid "Emoji (Table)"
-msgstr ""
+msgstr "Эмодзи (Таблица)"
 
 #: tables/other/ipa-x-sampa.conf.in:3
-#, fuzzy
 msgid "IPA-X-SAMPA (Table)"
-msgstr "IPA-X-SAMPA"
+msgstr "IPA-X-SAMPA (Таблица)"
 
 #: tables/bn/bengali-inscript.conf.in:3
 msgid "Inscript - Bengali (Table)"
-msgstr ""
+msgstr "Inscript - Бенгальский (Таблица)"
 
 #: tables/gu/gujarati-inscript.conf.in:3
 msgid "Inscript - Gujarati (Table)"
-msgstr ""
+msgstr "Inscript - Гуджарати (Таблица)"
 
 #: tables/hi/hindi-inscript.conf.in:3
 msgid "Inscript - Hindi (Table)"
-msgstr ""
+msgstr "Inscript - Хинди (Таблица)"
 
 #: tables/kn/kannada-inscript.conf.in:3
 msgid "Inscript - Kannada (Table)"
-msgstr ""
+msgstr "Inscript - Каннада (Таблица)"
 
 #: tables/ml/malayalam-inscript.conf.in:3
 msgid "Inscript - Malayalam (Table)"
-msgstr ""
+msgstr "Inscript - Малаялам (Таблица)"
 
 #: tables/pa/punjabi-inscript.conf.in:3
 msgid "Inscript - Punjabi (Table)"
-msgstr ""
+msgstr "Inscript - панджаби (Таблица)"
 
 #: tables/ta/tamil-inscript.conf.in:3
 msgid "Inscript - Tamil (Table)"
-msgstr ""
+msgstr "Inscript - Тамильский (Таблица)"
 
 #: tables/te/telugu-inscript.conf.in:3
 msgid "Inscript - Telugu (Table)"
-msgstr ""
+msgstr "Inscript - Телугу (Таблица)"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum - Punjabi (Table)"
-msgstr ""
+msgstr "Джелум - Панджаби (Таблица)"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP - Kannada (Table)"
-msgstr ""
+msgstr "KGP - Каннада (Таблица)"
 
 #: tables/other/latex.conf.in:3
 msgid "Latex (Table)"
-msgstr ""
+msgstr "Latex (Таблица)"
 
 #: tables/gu/gujarati-phonetic.conf.in:3
 msgid "Phonetic - Gujarati (Table)"
-msgstr ""
+msgstr "Фонетический - Гуджарати (Таблица)"
 
 #: tables/hi/hindi-phonetic.conf.in:3
 msgid "Phonetic - Hindi (Table)"
-msgstr ""
+msgstr "Фонетический - Хинди (Таблица)"
 
 #: tables/pa/punjabi-phonetic.conf.in:3
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "Фонетический - Панджаби (Таблица)"
 
 #: tables/ta/tamil-phonetic.conf.in:3
 msgid "Phonetic - Tamil (Table)"
-msgstr ""
+msgstr "Фонетический - Тамильский (Таблица)"
 
 #: tables/bn/bengali-probhat.conf.in:3
-#, fuzzy
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr "Probhat (фонетический)"
+msgstr "Пробхат (фонетический) - Бенгальский (Таблица)"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington - Tamil (Table)"
-msgstr ""
+msgstr "Ремингтон - Тамильский (Таблица)"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized - Nepali (Table)"
-msgstr ""
+msgstr "Романизированный – Непальский (Таблица)"
 
 #: tables/ru/rustrad.conf.in:3
-#, fuzzy
 msgid "Russian Traditional (Table)"
-msgstr "Русский традиционный"
+msgstr "Русский Традиционный (Таблица)"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
-msgstr ""
+msgstr "Сваналекха - Малаялам (Таблица)"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai (Table)"
-msgstr ""
+msgstr "Тайский (Таблица)"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
-msgstr ""
+msgstr "Традиционный - Непальский (Таблица)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
-msgstr ""
+msgstr "Транслит - Русский (Таблица)"
 
 #: tables/uk/translit-ua.conf.in:3
-#, fuzzy
 msgid "Ua-Translit (Table)"
-msgstr "Украинский транслит"
+msgstr "Украинский - Транслит (Таблица)"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr (Table)"
-msgstr ""
+msgstr "Viqr Вьетнамский (Таблица)"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty - Russian (Table)"
-msgstr ""
-
-#~ msgid "Emoji"
-#~ msgstr "Эмодзи"
-
-#~ msgid "Inscript"
-#~ msgstr "Инскрипт"
-
-#~ msgid "Jhelum"
-#~ msgstr "Jhelum"
-
-#~ msgid "KGP"
-#~ msgstr "KGP"
-
-#~ msgid "LaTex"
-#~ msgstr "LaTex"
-
-#~ msgid "Phonetic"
-#~ msgstr "Фонетический"
-
-#~ msgid "Remington"
-#~ msgstr "Ремингтон"
-
-#~ msgid "Romanized"
-#~ msgstr "Романский"
-
-#~ msgid "Swanalekha"
-#~ msgstr "Swanalekha"
-
-#~ msgid "Thai"
-#~ msgstr "Тайский"
-
-#~ msgid "Traditional"
-#~ msgstr "Традиционный"
-
-#~ msgid "Translit"
-#~ msgstr "Транслит"
-
-#~ msgid "Viqr"
-#~ msgstr "VIQR"
-
-#~ msgid "Yawerty"
-#~ msgstr "ЯВЕРТЫ"
+msgstr "Yawerty - Русский (Таблица)"
