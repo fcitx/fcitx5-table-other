@@ -3,16 +3,16 @@
 # This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# 이정희 <daemul72@gmail.com>, 2021
 # Bon Keun Seo <scobyseo@gmail.com>, 2021
+# Junghee Lee <daemul72@gmail.com>, 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2021-10-17 20:24+0000\n"
+"POT-Creation-Date: 2022-04-09 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
-"Last-Translator: Bon Keun Seo <scobyseo@gmail.com>, 2021\n"
+"Last-Translator: Junghee Lee <daemul72@gmail.com>, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/fcitx/teams/12005/ko/)\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr "Fcitx 5 용 추가 표"
 
 #: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr "Fcitx 5 용 추가 표 기반 입력기"
+msgstr "Fcitx 5용 추가 표 기반 입력기"
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic (Table)"
@@ -126,7 +126,7 @@ msgstr "로마자 표기 - 네팔어 (표)"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional (Table)"
-msgstr "러시아어 번체 (표)"
+msgstr "전통 러시아어 (표)"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha - Malayalam (Table)"
@@ -138,7 +138,7 @@ msgstr "태국어 (표)"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional - Nepali (Table)"
-msgstr "번체 - 네팔어 (표)"
+msgstr "전통 - 네팔어 (표)"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit - Russian (Table)"
