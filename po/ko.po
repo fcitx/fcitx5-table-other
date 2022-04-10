@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# Bon Keun Seo <scobyseo@gmail.com>, 2021
 # Junghee Lee <daemul72@gmail.com>, 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5-table-other\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2022-04-09 20:25+0000\n"
+"POT-Creation-Date: 2022-04-10 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
 "Last-Translator: Junghee Lee <daemul72@gmail.com>, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/fcitx/teams/12005/ko/)\n"
@@ -22,11 +21,11 @@ msgstr ""
 
 #: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:7
 msgid "Additional Table for Fcitx 5"
-msgstr "Fcitx 5 용 추가 표"
+msgstr "Fcitx5용 추가 표"
 
 #: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr "Fcitx 5용 추가 표 기반 입력기"
+msgstr "Fcitx5용 추가 표 기반 입력기"
 
 #: tables/am/amharic.conf.in:3
 msgid "Amharic (Table)"
