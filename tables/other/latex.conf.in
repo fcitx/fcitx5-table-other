@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Latex (Table)
-Icon=fcitx-latex
+Icon=fcitx_latex
 LangCode=*
 Addon=table
 Configurable=True

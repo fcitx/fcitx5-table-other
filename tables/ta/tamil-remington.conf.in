@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Remington - Tamil (Table)
-Icon=fcitx-tamil-remington
+Icon=fcitx_tamil_remington
 LangCode=ta
 Addon=table
 Configurable=True

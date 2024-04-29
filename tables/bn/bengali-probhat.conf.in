@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Probhat (phonetic) - Bengali (Table)
-Icon=fcitx-bengali-probhat
+Icon=fcitx_bengali_probhat
 LangCode=bn
 Addon=table
 Configurable=True

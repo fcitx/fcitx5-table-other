@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Compose (Table)
-Icon=fcitx-compose
+Icon=fcitx_compose
 LangCode=*
 Addon=table
 Configurable=True

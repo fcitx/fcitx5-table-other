@@ -1,6 +1,6 @@
 [InputMethod]
 Name=CNS11643 (Table)
-Icon=fcitx-cns11643
+Icon=fcitx_cns11643
 LangCode=zh
 Addon=table
 Configurable=True

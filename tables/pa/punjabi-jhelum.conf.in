@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Jhelum - Punjabi (Table)
-Icon=fcitx-punjabi-jhelum
+Icon=fcitx_punjabi_jhelum
 LangCode=pa
 Addon=table
 Configurable=True

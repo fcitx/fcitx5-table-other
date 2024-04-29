@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Yawerty - Russian (Table)
-Icon=fcitx-yawerty
+Icon=fcitx_yawerty
 LangCode=ru
 Addon=table
 Configurable=True

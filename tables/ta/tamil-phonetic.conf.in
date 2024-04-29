@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Phonetic - Tamil (Table)
-Icon=fcitx-tamil-phonetic
+Icon=fcitx_tamil_phonetic
 LangCode=ta
 Addon=table
 Configurable=True

@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Ua-Translit (Table)
-Icon=fcitx-translit-ua
+Icon=fcitx_translit_ua
 LangCode=uk
 Addon=table
 Configurable=True

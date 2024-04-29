@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Romanized - Nepali (Table)
-Icon=fcitx-nepali
+Icon=fcitx_nepali
 LangCode=ne
 Addon=table
 Configurable=True

@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Malayalam (Table)
-Icon=fcitx-malayalam-inscript
+Icon=fcitx_malayalam_inscript
 LangCode=ml
 Addon=table
 Configurable=True

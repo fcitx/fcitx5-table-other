@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Kannada (Table)
-Icon=fcitx-kannada-inscript
+Icon=fcitx_kannada_inscript
 LangCode=kn
 Addon=table
 Configurable=True

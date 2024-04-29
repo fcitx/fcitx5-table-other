@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Translit - Russian (Table)
-Icon=fcitx-translit
+Icon=fcitx_translit
 LangCode=ru
 Addon=table
 Configurable=True

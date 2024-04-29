@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Thai (Table)
-Icon=fcitx-thai
+Icon=fcitx_thai
 LangCode=th
 Addon=table
 Configurable=True

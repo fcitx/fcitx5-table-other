@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Phonetic - Hindi (Table)
-Icon=fcitx-hindi-inscript
+Icon=fcitx_hindi_inscript
 LangCode=hi
 Addon=table
 Configurable=True

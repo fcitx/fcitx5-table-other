@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Swanalekha - Malayalam (Table)
-Icon=fcitx-malayalam-phonetic
+Icon=fcitx_malayalam_phonetic
 LangCode=ml
 Addon=table
 Configurable=True

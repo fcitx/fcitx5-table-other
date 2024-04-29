@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Russian Traditional (Table)
-Icon=fcitx-rustrad
+Icon=fcitx_rustrad
 LangCode=ru
 Addon=table
 Configurable=True

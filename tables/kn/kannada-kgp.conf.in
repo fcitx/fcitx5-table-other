@@ -1,6 +1,6 @@
 [InputMethod]
 Name=KGP - Kannada (Table)
-Icon=fcitx-kannada-kgp
+Icon=fcitx_kannada_kgp
 LangCode=kn
 Addon=table
 Configurable=True

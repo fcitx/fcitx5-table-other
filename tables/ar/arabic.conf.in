@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Arabic (Table)
-Icon=fcitx-arabic
+Icon=fcitx_arabic
 LangCode=ar
 Addon=table
 Configurable=True

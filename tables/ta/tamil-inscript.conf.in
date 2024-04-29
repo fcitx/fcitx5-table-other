@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Tamil (Table)
-Icon=fcitx-tamil-inscript
+Icon=fcitx_tamil_inscript
 LangCode=ta
 Addon=table
 Configurable=True

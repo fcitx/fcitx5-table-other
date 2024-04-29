@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Viqr (Table)
-Icon=fcitx-viqr
+Icon=fcitx_viqr
 LangCode=vi
 Addon=table
 Configurable=True

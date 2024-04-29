@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Phonetic - Gujarati (Table)
-Icon=fcitx-gujarati-phonetic
+Icon=fcitx_gujarati_phonetic
 LangCode=gu
 Addon=table
 Configurable=True

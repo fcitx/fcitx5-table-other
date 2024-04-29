@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Bengali (Table)
-Icon=fcitx-bengali-inscript
+Icon=fcitx_bengali_inscript
 LangCode=bn
 Addon=table
 Configurable=True

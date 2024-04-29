@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Phonetic - Punjabi (Table)
-Icon=fcitx-punjabi-phonetic
+Icon=fcitx_punjabi_phonetic
 LangCode=pa
 Addon=table
 Configurable=True

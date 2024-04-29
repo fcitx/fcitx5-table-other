@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Punjabi (Table)
-Icon=fcitx-punjabi-inscript
+Icon=fcitx_punjabi_inscript
 LangCode=pa
 Addon=table
 Configurable=True

@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Gujarati (Table)
-Icon=fcitx-gujarati-inscript
+Icon=fcitx_gujarati_inscript
 LangCode=gu
 Addon=table
 Configurable=True

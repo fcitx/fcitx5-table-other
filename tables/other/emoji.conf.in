@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Emoji (Table)
-Icon=fcitx-emoji
+Icon=fcitx_emoji
 LangCode=zh_CN
 Addon=table
 Configurable=True

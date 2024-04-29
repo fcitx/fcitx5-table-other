@@ -1,6 +1,6 @@
 [InputMethod]
 Name=IPA-X-SAMPA (Table)
-Icon=fcitx-ipa-x-sampa
+Icon=fcitx_ipa_x_sampa
 LangCode=*
 Addon=table
 Configurable=True

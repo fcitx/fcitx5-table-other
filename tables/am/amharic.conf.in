@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Amharic (Table)
-Icon=fcitx-amharic
+Icon=fcitx_amharic
 LangCode=am
 Addon=table
 Configurable=True

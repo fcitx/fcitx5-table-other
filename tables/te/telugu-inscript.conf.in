@@ -1,6 +1,6 @@
 [InputMethod]
 Name=Inscript - Telugu (Table)
-Icon=fcitx-telugu-inscript
+Icon=fcitx_telugu_inscript
 LangCode=te
 Addon=table
 Configurable=True
