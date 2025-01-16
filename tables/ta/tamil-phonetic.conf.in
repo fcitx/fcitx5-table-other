@@ -12,10 +12,11 @@ AutoSelect=True
 AutoSelectLength=1
 NoMatchAutoSelectLength=1
 Learning=False
-ExactMatch=False
+ExactMatch=True
 UseAlternativePageKey=True
 FirstCandidateAsPreedit=True
 CommitInvalidSegment=True
+PageSize=0
 
 [Table/PrevPage]
 0=Page_Up
