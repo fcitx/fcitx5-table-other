@@ -1,0 +1,63 @@
+Length=3
+KeyCode=',/BDEGHORSTWZabcdefghijklmnopqrstuvwxyz
+Prompt=
+ConstructPhrase=
+[Data]
+a ⴰ
+b ⴱ
+B ⴲ
+g ⴳ
+G ⴴ
+dj ⴵ
+g' ⴶ
+d ⴷ
+d' ⴸ
+D ⴹ
+Dh ⴺ
+e ⴻ
+f ⴼ
+k ⴽ
+k' ⴾ
+x ⴿ
+h ⵀ
+h/ ⵁ
+h' ⵂ
+H ⵃ
+o ⵄ
+kh ⵅ
+x' ⵆ
+q ⵇ
+q' ⵈ
+i ⵉ
+j ⵊ
+z' ⵋ
+Z' ⵌ
+l ⵍ
+m ⵎ
+n ⵏ
+gn ⵐ
+ng ⵑ
+p ⵒ
+u ⵓ
+r ⵔ
+R ⵕ
+gh ⵖ
+kh' ⵗ
+gj ⵘ
+s ⵙ
+S ⵚ
+c ⵛ
+t ⵜ
+th ⵝ
+ch ⵞ
+T ⵟ
+v ⵠ
+w ⵡ
+y ⵢ
+z ⵣ
+z/ ⵤ
+Z ⵥ
+E ⵦ
+O ⵧ
+W ⵯ
+,, ⵰
