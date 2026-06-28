@@ -1,0 +1,37 @@
+Length=3
+KeyCode=abgdewzhtiklmnsopqrstuxf'150
+Prompt=
+ConstructPhrase=
+[Data]
+a 𐌀
+b 𐌁
+g 𐌂
+d 𐌃
+e 𐌄
+w 𐌅
+z 𐌆
+h 𐌇
+th 𐌈
+i 𐌉
+k 𐌊
+l 𐌋
+m 𐌌
+n 𐌍
+s' 𐌎
+o 𐌏
+p 𐌐
+'s 𐌑
+q 𐌒
+r 𐌓
+s 𐌔
+t 𐌕
+u 𐌖
+x 𐌗
+ph 𐌘
+kh 𐌙
+f 𐌚
+1 𐌠
+5 𐌡
+10 𐌢
+50 𐌣
+100 𐌟

@@ -34,6 +34,8 @@ set(TABLE_NAMES
   ru/yawerty
   th/thai
   vi/viqr
+
+  ett/etruscan
   )
 
 if(ENABLE_DEPRECATED)
