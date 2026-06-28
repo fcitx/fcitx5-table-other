@@ -36,6 +36,7 @@ set(TABLE_NAMES
   vi/viqr
   ett/etruscan
   zgh/tifinagh
+  phn/phoenician
   )
 
 if(ENABLE_DEPRECATED)
