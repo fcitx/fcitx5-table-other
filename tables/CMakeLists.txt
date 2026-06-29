@@ -37,6 +37,7 @@ set(TABLE_NAMES
   ett/etruscan
   zgh/tifinagh
   phn/phoenician
+  he/hebrew
   )
 
 if(ENABLE_DEPRECATED)

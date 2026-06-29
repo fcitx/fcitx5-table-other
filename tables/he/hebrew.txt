@@ -1,0 +1,60 @@
+Length=2
+KeyCode=',-.:CEKMNOPST_abcdeghijklmnopqrstuvxz|
+Prompt=
+ConstructPhrase=
+[Data]
+a א
+b ב
+b. בּ
+g ג
+g. גּ
+d ד
+d. דּ
+h ה
+v ו
+z ז
+x ח
+t' ט
+j י
+k כ
+k. כּ
+K ך
+K. ךּ
+l ל
+m מ
+M ם
+n נ
+N ן
+S ס
+' ע
+p פ
+p. פּ
+P ף
+P. ףּ
+c צ
+C ץ
+q ק
+r ר
+s ש
+s. שׁ
+.s שׂ
+t ת
+t. תּ
+, ׳
+,, ״
+'' ֞
+: ׃
+| ׀
+- ־
+i ִ
+e ֵ
+E ֶ
+a- ַ
+a_ ָ
+o ׇ
+O ֹ
+u ֻ
+e: ְ
+:e ֱ
+a: ֲ
+:a ֳ
