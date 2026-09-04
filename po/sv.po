@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the fcitx5-table-other package.
 #
 # Translators:
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026
+# Daniel Nylander <po@danielnylander.se>, 2026
 #
 msgid ""
 msgstr ""
@@ -11,146 +11,146 @@ msgstr ""
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
 "POT-Creation-Date: 2026-09-04 20:25+0000\n"
 "PO-Revision-Date: 2020-09-13 02:33+0000\n"
-"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026\n"
-"Language-Team: Georgian (https://app.transifex.com/fcitx/teams/12005/ka/)\n"
-"Language: ka\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/fcitx/teams/12005/sv/)\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:7
 msgid "Additional Table for Fcitx 5"
-msgstr "დამატებითი ცხრილი Fcitx 5-ისთვის"
+msgstr "Ytterligare tabeller för Fcitx 5"
 
 #: org.fcitx.Fcitx5.Addon.TableOther.metainfo.xml.in:8
 msgid "Additional table based input method for Fcitx 5"
-msgstr ""
+msgstr "Ytterligare tabellbaserade inmatningsmetoder för Fcitx 5"
 
 #: tables/kn/kannada-kgp.conf.in:2
 msgid "KGP - Kannada (Table)"
-msgstr "KGP - კანადა (ცხრილი)"
+msgstr "KGP – kannada (tabell)"
 
 #: tables/kn/kannada-inscript.conf.in:2
 msgid "Inscript - Kannada (Table)"
-msgstr ""
+msgstr "Inscript – kannada (tabell)"
 
 #: tables/ml/malayalam-inscript.conf.in:2
 msgid "Inscript - Malayalam (Table)"
-msgstr ""
+msgstr "Inscript – malayalam (tabell)"
 
 #: tables/ml/malayalam-phonetic.conf.in:2
 msgid "Swanalekha - Malayalam (Table)"
-msgstr ""
+msgstr "Swanalekha – malayalam (tabell)"
 
 #: tables/th/thai.conf.in:2
 msgid "Thai (Table)"
-msgstr ""
+msgstr "Thailändska (tabell)"
 
 #: tables/bn/bengali-probhat.conf.in:2
 msgid "Probhat (phonetic) - Bengali (Table)"
-msgstr ""
+msgstr "Probhat (fonetisk) – bengaliska (tabell)"
 
 #: tables/bn/bengali-inscript.conf.in:2
 msgid "Inscript - Bengali (Table)"
-msgstr ""
+msgstr "Inscript – bengaliska (tabell)"
 
 #: tables/other/emoji.conf.in:2
 msgid "Emoji (Table)"
-msgstr "ემოჯი (ცხრილი)"
+msgstr "Emoji (tabell)"
 
 #: tables/other/cns11643.conf.in:2
 msgid "CNS11643 (Table)"
-msgstr "CNS11643 (ცხრილი)"
+msgstr "CNS11643 (tabell)"
 
 #: tables/other/ipa-x-sampa.conf.in:2
 msgid "IPA-X-SAMPA (Table)"
-msgstr "IPA-X-SAMPA (ცხრილი)"
+msgstr "IPA-X-SAMPA (tabell)"
 
 #: tables/other/latex.conf.in:2
 msgid "Latex (Table)"
-msgstr ""
+msgstr "LaTeX (tabell)"
 
 #: tables/other/compose.conf.in:2
 msgid "Compose (Table)"
-msgstr ""
+msgstr "Compose (tabell)"
 
 #: tables/ru/rustrad.conf.in:2
 msgid "Russian Traditional (Table)"
-msgstr "რუსული ტრადიციული (ცხრილი)"
+msgstr "Traditionell ryska (tabell)"
 
 #: tables/ru/translit.conf.in:2
 msgid "Translit - Russian (Table)"
-msgstr "ტრანსლიტერაცია - რუსული (ცხრილი)"
+msgstr "Translit – ryska (tabell)"
 
 #: tables/ru/yawerty.conf.in:2
 msgid "Yawerty - Russian (Table)"
-msgstr ""
+msgstr "Yawerty – ryska (tabell)"
 
 #: tables/ta/tamil-phonetic.conf.in:2
 msgid "Phonetic - Tamil (Table)"
-msgstr ""
+msgstr "Fonetisk – tamil (tabell)"
 
 #: tables/ta/tamil-inscript.conf.in:2
 msgid "Inscript - Tamil (Table)"
-msgstr ""
+msgstr "Inscript – tamil (tabell)"
 
 #: tables/ta/tamil-remington.conf.in:2
 msgid "Remington - Tamil (Table)"
-msgstr ""
+msgstr "Remington – tamil (tabell)"
 
 #: tables/am/amharic.conf.in:2
 msgid "Amharic (Table)"
-msgstr ""
+msgstr "Amhariska (tabell)"
 
 #: tables/ne/nepali-trad.conf.in:2
 msgid "Traditional - Nepali (Table)"
-msgstr ""
+msgstr "Traditionell – nepali (tabell)"
 
 #: tables/ne/nepali-rom.conf.in:2
 msgid "Romanized - Nepali (Table)"
-msgstr ""
+msgstr "Romaniserad – nepali (tabell)"
 
 #: tables/gu/gujarati-inscript.conf.in:2
 msgid "Inscript - Gujarati (Table)"
-msgstr ""
+msgstr "Inscript – gujarati (tabell)"
 
 #: tables/gu/gujarati-phonetic.conf.in:2
 msgid "Phonetic - Gujarati (Table)"
-msgstr ""
+msgstr "Fonetisk – gujarati (tabell)"
 
 #: tables/uk/translit-ua.conf.in:2
 msgid "Ua-Translit (Table)"
-msgstr ""
+msgstr "Ua-Translit (tabell)"
 
 #: tables/te/telugu-inscript.conf.in:2
 msgid "Inscript - Telugu (Table)"
-msgstr ""
+msgstr "Inscript – telugu (tabell)"
 
 #: tables/hi/hindi-inscript.conf.in:2
 msgid "Inscript - Hindi (Table)"
-msgstr ""
+msgstr "Inscript – hindi (tabell)"
 
 #: tables/hi/hindi-phonetic.conf.in:2
 msgid "Phonetic - Hindi (Table)"
-msgstr ""
+msgstr "Fonetisk – hindi (tabell)"
 
 #: tables/ar/arabic.conf.in:2
 msgid "Arabic (Table)"
-msgstr ""
+msgstr "Arabiska (tabell)"
 
 #: tables/pa/punjabi-inscript.conf.in:2
 msgid "Inscript - Punjabi (Table)"
-msgstr ""
+msgstr "Inscript – punjabi (tabell)"
 
 #: tables/pa/punjabi-phonetic.conf.in:2
 msgid "Phonetic - Punjabi (Table)"
-msgstr ""
+msgstr "Fonetisk – punjabi (tabell)"
 
 #: tables/pa/punjabi-jhelum.conf.in:2
 msgid "Jhelum - Punjabi (Table)"
-msgstr ""
+msgstr "Jhelum – punjabi (tabell)"
 
 #: tables/vi/viqr.conf.in:2
 msgid "Viqr (Table)"
-msgstr ""
+msgstr "Viqr (tabell)"
